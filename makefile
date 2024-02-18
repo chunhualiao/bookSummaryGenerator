@@ -1,0 +1,2 @@
+check:generateBookSummaries.py
+	python $^
