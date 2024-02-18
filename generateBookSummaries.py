@@ -18,7 +18,7 @@ from pathlib import Path
 # a txt file providing book information
 BOOK_LIST_FILE = 'bookList.txt'
 
-NUM_BOOKS = 5  # Change this to limit the number of books to process, used for debugging
+#NUM_BOOKS = 5  # Change this to limit the number of books to process, used for debugging
 NUM_BOOKS = None  # None will be treated as all in the code
 
 # reference web gpt-4: 509 words
@@ -154,10 +154,10 @@ def generate_summaries(client, books):
         else:
             print("Warning: No book name in double quotes is found.")
 #        file_name = f"{book}.summary.txt"
-# prepend a three digit serial number
-        file_name = f"{book_count:03}_{book}.summary.txt"
 # Replace any character that is not a letter (a-z, A-Z) or digit (0-9) with a hyphen
-        file_name = re.sub(r'[^a-zA-Z0-9]', '-', file_name)
+        sanitized_book_name = re.sub(r'[^a-zA-Z0-9]', '-', book)
+# prepend a three digit serial number, using markedown format for easier reading
+        file_name = f"{book_count:03}_{sanitized_book_name}.summary.md"
  
         if Path(file_name).exists():
           print(f"The file '{file_name}' already exists. Skipping it...")
