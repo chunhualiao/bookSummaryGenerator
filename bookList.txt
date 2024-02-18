@@ -1,17 +1,17 @@
 Recommended by | Books | Recommendation Count
 -- | -- | --
-Elon Mask/ Mark Zuckerberg/Rupert Murdoch | "Zero to One: Notes on Startups, or How to Build the Future" by Peter Thiel | 3
-Larry Page/Mark Zuckerberg/ Michael Dell | "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers" by Ben Horowitz | 3
-Sergey Brin/Larry Page | "Surely You’re Joking, Mr. Feynman! (Adventures of a Curious Character)"  by Richard P. Feynman | 2
-Sergey Brin/Larry Page | “Snow Crash”  by Neal Stephenson | 2
-Rupert Murdoch/Mark Zuckerberg | "The Rational Optimist" by Matt Ridley | 2
-Michael Bloomberg/ Elon Mask | "The New Digital Age: Transforming Nations, Businesses, and Our Lives" by Eric Schmidt, Jonathan Rosenberg | 2
-Michael Bloomberg/ RayDalio | "Principles: Life and Work" by Ray Dalio | 2
-Mark Zuckerberg/ Ray Dalio | "Sapiens: A Brief History of Humankind" by Yuval Noah Harari | 2
-Warren Buffet/ Micahel Dell | "Business Adventures: Twelve Classic Tales From the World of Wall Street" by John Brooks | 2
-Larry Ellison/ Mark Zuckerberg | "High Output Management" by Andrew S. Grove | 2
-Stephen Schwarzman/Markzucherburg | "World Order" by Henry Kissinger | 2
-Warren Buffet/Michael Dale | "The Outsiders" by William Thorndike Jr. | 2
+Elon Mask- Mark Zuckerberg-Rupert Murdoch | "Zero to One: Notes on Startups, or How to Build the Future" by Peter Thiel | 3
+Larry Page-Mark Zuckerberg- Michael Dell | "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers" by Ben Horowitz | 3
+Sergey Brin-Larry Page | "Surely You're Joking, Mr. Feynman! (Adventures of a Curious Character)"  by Richard P. Feynman | 2
+Sergey Brin-Larry Page | "Snow Crash"  by Neal Stephenson | 2
+Rupert Murdoch-Mark Zuckerberg | "The Rational Optimist" by Matt Ridley | 2
+Michael Bloomberg- Elon Mask | "The New Digital Age: Transforming Nations, Businesses, and Our Lives" by Eric Schmidt, Jonathan Rosenberg | 2
+Michael Bloomberg- RayDalio | "Principles: Life and Work" by Ray Dalio | 2
+Mark Zuckerberg- Ray Dalio | "Sapiens: A Brief History of Humankind" by Yuval Noah Harari | 2
+Warren Buffet- Micahel Dell | "Business Adventures: Twelve Classic Tales From the World of Wall Street" by John Brooks | 2
+Larry Ellison- Mark Zuckerberg | "High Output Management" by Andrew S. Grove | 2
+Stephen Schwarzman-Markzucherburg | "World Order" by Henry Kissinger | 2
+Warren Buffet-Michael Dale | "The Outsiders" by William Thorndike Jr. | 2
 Jeff Bezos | "The Remains of the Day" by Kazuo Ishiguro | 1
 Bill Gates | "The Future of Capitalism'' by Paul Collier | 1
 Warren Buffet | "The Intelligent Investor" by Benjamin Graham | 1
@@ -35,7 +35,7 @@ Masayoshi Son | "Reimagining Japan : The Quest for a Future That Works" by Masay
 Vagit Alekperov | "Oil of Russia: Past, Present & Future" by Vagit Alekperov | 1
 Rupert Murdoch | "Civilization"  by Niall Ferguson | 1
 Ray Dalio | "Mastering the Market Cycle: Getting the Odds on Your Side"  By Howard Marks | 1
-Stefan Quandt | "Deutsche Und Europaeische Sicherheits- Und Verteidigungspolitik: Sammelband Zur Vortragsreihe Des Studentischen Konvents an Der Helmut-Schmidt-Universitaet/Universitaet Der Bundeswehr Hamburg" by Alexander Schroder and Stefan Quandt | 1
+Stefan Quandt | "Deutsche Und Europaeische Sicherheits- Und Verteidigungspolitik: Sammelband Zur Vortragsreihe Des Studentischen Konvents an Der Helmut-Schmidt-Universitaet-Universitaet Der Bundeswehr Hamburg" by Alexander Schroder and Stefan Quandt | 1
 Carl Icahn | "Capital in the Twenty-First Century" by Thomas Piketty | 1
 Lui Che Woo | "Lui Che-woo: Creating Value: The Journey of a Self-Made Billionaire: The Authorized Biography" by Lui Che-woo, Bi Yajun | 1
 Emmanuel Besnier | "Le New Age " by Renaud Marhic , Emmanuel Besnier | 1
@@ -114,7 +114,7 @@ Charles Koch | "America’s War for the Greater Middle East" by Andrew Bacevich 
 David Koch | "Slaying the Dragon : The Journey from the Dungeon to the Ivory Tower" by David Koch | 1
 Jack Ma | "Here Comes Everybody: The Power of Organizing Without Organizations" by Clay Shirky | 1
 Michael Dell | "The Zero Marginal Cost Society: The Internet of Things, the Collaborative Commons, and the Eclipse of Capitalism" by Jeremy Rifkin | 1
-Tadashi Yanai | "放胆去闯" by Ohmae kenichi, Yanai Tadashi | 1
+Tadashi Yanai | "The Mind of the Strategist: The Art of Japanese Business" by Ohmae kenichi | 1
 Rupert Murdoch | "Born to Rise" by Deborah Kenny | 1
 Ray Dalio | " River Out of Eden: A Darwinian View of Life"  by Richard Dawkins | 1
 Carl Icahn | "Masters of the Universe: Winning Strategies of America’s Greatest Dealmakers" by Daniel J Kadlec | 1
