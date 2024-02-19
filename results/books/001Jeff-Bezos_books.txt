@@ -1,0 +1,29 @@
+{
+    "books": [
+        "The Remains of the Day",
+        "Sam Walton: Made in America",
+        "Built to Last: Successful Habits of Visionary Companies",
+        "Good to Great: Why Some Companies Make the Leap...And Others Don't",
+        "Creation: Life and How to Make It",
+        "Sam Walton: Made In America",
+        "The Innovator's Dilemma",
+        "The Mythical Man-Month",
+        "Lean Thinking: Banish Waste and Create Wealth in Your Corporation",
+        "Data-Driven Marketing: The 15 Metrics Everyone in Marketing Should Know",
+        "The Goal: A Process of Ongoing Improvement",
+        "The Black Swan: The Impact of the Highly Improbable",
+        "The Innovator's Solution: Creating and Sustaining Successful Growth",
+        "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+        "Sam Walton: Made in America",
+        "Memos from the Chairman",
+        "The Mythical Man-Month: Essays on Software Engineering",
+        "Competing on Analytics: The New Science of Winning",
+        "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail",
+        "Built to Last: Successful Habits of Visionary Companies",
+        "The Effective Executive: The Definitive Guide to Getting the Right Things Done",
+        "The Innovator's Solution: Creating and Sustaining Successful Growth",
+        "The Black Swan: The Impact of the Highly Improbable",
+        "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+        "Sam Walton: Made in America"
+    ]
+}

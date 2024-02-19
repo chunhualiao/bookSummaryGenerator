@@ -1,0 +1,29 @@
+{
+    "books": [
+        "Sapiens: A Brief History of Humankind by Yuval Noah Harari",
+        "The Innovator's Dilemma by Clayton M. Christensen",
+        "The Lean Startup by Eric Ries",
+        "The Everything Store: Jeff Bezos and the Age of Amazon by Brad Stone",
+        "Guns, Germs, and Steel: The Fates of Human Societies by Jared Diamond",
+        "The Hard Thing About Hard Things by Ben Horowitz",
+        "The Art of War by Sun Tzu",
+        "Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel",
+        "The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution by Walter Isaacson",
+        "Thinking, Fast and Slow by Daniel Kahneman",
+        "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future by Ashlee Vance",
+        "Good to Great: Why Some Companies Make the Leap... and Others Don't by Jim Collins",
+        "Shoe Dog: A Memoir by the Creator of Nike by Phil Knight",
+        "The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google by Scott Galloway",
+        "The Alchemist by Paulo Coelho",
+        "Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration by Ed Catmull",
+        "Leaders Eat Last: Why Some Teams Pull Together and Others Don't by Simon Sinek",
+        "The Power of Habit: Why We Do What We Do in Life and Business by Charles Duhigg",
+        "Principles: Life and Work by Ray Dalio",
+        "Outliers: The Story of Success by Malcolm Gladwell",
+        "Lean In: Women, Work, and the Will to Lead by Sheryl Sandberg",
+        "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change by Stephen R. Covey",
+        "The Tipping Point: How Little Things Can Make a Big Difference by Malcolm Gladwell",
+        "Deep Work: Rules for Focused Success in a Distracted World by Cal Newport",
+        "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear"
+    ]
+}

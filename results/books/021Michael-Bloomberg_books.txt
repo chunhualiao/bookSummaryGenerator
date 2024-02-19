@@ -1,0 +1,28 @@
+{
+    "books": [
+        "The Power Broker: Robert Moses and the Fall of New York by Robert A. Caro",
+        "Team of Rivals: The Political Genius of Abraham Lincoln by Doris Kearns Goodwin",
+        "Thinking, Fast and Slow by Daniel Kahneman",
+        "The Better Angels of Our Nature: Why Violence Has Declined by Steven Pinker",
+        "The Road to Character by David Brooks",
+        "The Wright Brothers by David McCullough",
+        "The Bully Pulpit: Theodore Roosevelt, William Howard Taft, and the Golden Age of Journalism by Doris Kearns Goodwin",
+        "The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution by Walter Isaacson",
+        "Titan: The Life of John D. Rockefeller, Sr. by Ron Chernow",
+        "In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin by Erik Larson",
+        "The Alchemist by Paulo Coelho",
+        "The World Is Flat 3.0: A Brief History of the Twenty-first Century by Thomas L. Friedman",
+        "The Da Vinci Code by Dan Brown",
+        "The Big Short: Inside the Doomsday Machine by Michael Lewis",
+        "The Catcher in the Rye by J.D. Salinger",
+        "The Great Gatsby by F. Scott Fitzgerald",
+        "The Art of War by Sun Tzu",
+        "The Prince by Niccol\u00f2 Machiavelli",
+        "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries",
+        "The Remains of the Day by Kazuo Ishiguro",
+        "The Age of Turbulence: Adventures in a New World by Alan Greenspan",
+        "The Tipping Point: How Little Things Can Make a Big Difference by Malcolm Gladwell",
+        "The Fountainhead by Ayn Rand",
+        "The Snowball: Warren Buffett and the Business of Life by Alice Schroeder"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "books": [
+        "The Art of War by Sun Tzu",
+        "The Innovator's Dilemma by Clayton Christensen",
+        "The Lean Startup by Eric Ries",
+        "Good to Great by Jim Collins",
+        "Thinking, Fast and Slow by Daniel Kahneman",
+        "Start with Why by Simon Sinek",
+        "Zero to One by Peter Thiel",
+        "Lean In by Sheryl Sandberg",
+        "The 7 Habits of Highly Effective People by Stephen Covey",
+        "Drive by Daniel Pink",
+        "The Tipping Point by Malcolm Gladwell",
+        "Blue Ocean Strategy by W. Chan Kim and Ren\u00e9e Mauborgne",
+        "Mindset: The New Psychology of Success by Carol S. Dweck",
+        "Grit: The Power of Passion and Perseverance by Angela Duckworth",
+        "Originals: How Non-Conformists Move the World by Adam Grant",
+        "Leaders Eat Last by Simon Sinek",
+        "Thinking in Bets by Annie Duke",
+        "The Power of Habit by Charles Duhigg",
+        "Creativity, Inc. by Ed Catmull and Amy Wallace",
+        "The Hard Thing About Hard Things by Ben Horowitz",
+        "Measure What Matters by John Doerr",
+        "Shoe Dog by Phil Knight",
+        "The Everything Store by Brad Stone",
+        "The Four by Scott Galloway",
+        "Sapiens: A Brief History of Humankind by Yuval Noah Harari"
+    ]
+}

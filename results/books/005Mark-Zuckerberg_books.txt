@@ -1,0 +1,29 @@
+{
+    "books": [
+        "Sapiens: A Brief History of Humankind",
+        "The Better Angels of Our Nature: Why Violence has Declined",
+        "The Structure of Scientific Revolutions",
+        "Energy: A Human History",
+        "The Idea Factory: Bell Labs and the Great Age of American Innovation",
+        "Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration",
+        "Dealing with China: An Insider Unmasks the New Economic Superpower",
+        "The Three-Body Problem",
+        "The Beginning of Infinity: Explanations That Transform the World",
+        "Rational Ritual: Culture, Coordination, and Common Knowledge",
+        "Why Nations Fail: The Origins of Power, Prosperity, and Poverty",
+        "The Muqaddimah",
+        "The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger",
+        "The Player of Games",
+        "World Order",
+        "The Varieties of Religious Experience",
+        "Portfolios of the Poor: How the World's Poor Live on $2 a Day",
+        "Gang Leader for a Day: A Rogue Sociologist Takes to the Streets",
+        "On Immunity: An Inoculation",
+        "The Rational Optimist: How Prosperity Evolves",
+        "The Structure of Scientific Revolutions",
+        "The Idea Factory: Bell Labs and the Great Age of American Innovation",
+        "Orwell's Revenge: The 1984 Palimpsest",
+        "The New Jim Crow: Mass Incarceration in the Age of Colorblindness",
+        "The End of Power: From Boardrooms to Battlefields and Churches to States, Why Being In Charge Isn't What It Used to Be"
+    ]
+}

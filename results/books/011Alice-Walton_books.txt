@@ -1,0 +1,29 @@
+{
+    "books": [
+        "The Power of Now by Eckhart Tolle",
+        "Sapiens: A Brief History of Humankind by Yuval Noah Harari",
+        "Becoming by Michelle Obama",
+        "Educated by Tara Westover",
+        "The Alchemist by Paulo Coelho",
+        "Atomic Habits by James Clear",
+        "The Subtle Art of Not Giving a F*ck by Mark Manson",
+        "Born a Crime by Trevor Noah",
+        "The Four Agreements by Don Miguel Ruiz",
+        "Quiet: The Power of Introverts in a World That Can't Stop Talking by Susan Cain",
+        "The Untethered Soul by Michael A. Singer",
+        "The 7 Habits of Highly Effective People by Stephen R. Covey",
+        "Where the Crawdads Sing by Delia Owens",
+        "The Gifts of Imperfection by Bren\u00e9 Brown",
+        "Thinking, Fast and Slow by Daniel Kahneman",
+        "Daring Greatly by Bren\u00e9 Brown",
+        "How to Win Friends and Influence People by Dale Carnegie",
+        "The Art of Happiness by Dalai Lama",
+        "Man's Search for Meaning by Viktor E. Frankl",
+        "The Power of Habit by Charles Duhigg",
+        "The Body Keeps the Score by Bessel van der Kolk",
+        "Grit: The Power of Passion and Perseverance by Angela Duckworth",
+        "Educated by Tara Westover",
+        "The Road Less Traveled by M. Scott Peck",
+        "The Immortal Life of Henrietta Lacks by Rebecca Skloot"
+    ]
+}

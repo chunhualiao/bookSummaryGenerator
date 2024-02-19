@@ -1,0 +1,29 @@
+{
+    "books": [
+        "The Four Agreements",
+        "The Power of Now",
+        "Man's Search for Meaning",
+        "Good to Great",
+        "Start with Why",
+        "The Lean Startup",
+        "Thinking, Fast and Slow",
+        "Sapiens: A Brief History of Humankind",
+        "Atomic Habits",
+        "The Alchemist",
+        "The Subtle Art of Not Giving a F*ck",
+        "Essentialism: The Disciplined Pursuit of Less",
+        "Daring Greatly",
+        "Mindset: The New Psychology of Success",
+        "Deep Work: Rules for Focused Success in a Distracted World",
+        "Grit: The Power of Passion and Perseverance",
+        "The Innovator's Dilemma",
+        "Leaders Eat Last",
+        "Ego is the Enemy",
+        "Shoe Dog",
+        "Lean In",
+        "Blink: The Power of Thinking Without Thinking",
+        "Delivering Happiness",
+        "The Tipping Point",
+        "Quiet: The Power of Introverts in a World That Can't Stop Talking"
+    ]
+}

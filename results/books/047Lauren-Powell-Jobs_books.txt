@@ -1,0 +1,29 @@
+{
+    "books": [
+        "The Catcher in the Rye",
+        "To Kill a Mockingbird",
+        "The Great Gatsby",
+        "Beloved",
+        "The Road",
+        "The Brief Wondrous Life of Oscar Wao",
+        "The Color Purple",
+        "The Year of Magical Thinking",
+        "The Emperor of All Maladies",
+        "The Immortal Life of Henrietta Lacks",
+        "The Power Broker",
+        "The Art of War",
+        "Sapiens: A Brief History of Humankind",
+        "The Invention of Nature",
+        "The Sixth Extinction",
+        "The Warmth of Other Suns",
+        "How to Change Your Mind",
+        "The Moment of Lift",
+        "Educated",
+        "Just Mercy",
+        "The New Jim Crow",
+        "The Fire Next Time",
+        "The Unwinding",
+        "Between the World and Me",
+        "The Autobiography of Malcolm X"
+    ]
+}

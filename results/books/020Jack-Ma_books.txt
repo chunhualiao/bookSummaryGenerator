@@ -1,0 +1,29 @@
+{
+    "books": [
+        "Atlas Shrugged by Ayn Rand",
+        "Poor Charlie's Almanack by Charles T. Munger",
+        "Steve Jobs by Walter Isaacson",
+        "Made in Japan by Akio Morita",
+        "Sapiens: A Brief History of Humankind by Yuval Noah Harari",
+        "The Art of War by Sun Tzu",
+        "Business @ the Speed of Thought by Bill Gates",
+        "The World Is Flat by Thomas L. Friedman",
+        "The Road Ahead by Bill Gates",
+        "The Innovator's Dilemma by Clayton M. Christensen",
+        "The Box by Marc Levinson",
+        "Business Adventures by John Brooks",
+        "The Dream by Gurbaksh Chahal",
+        "The Last Mile by Dilip Soman",
+        "The Bible",
+        "The Alchemist by Paulo Coelho",
+        "1984 by George Orwell",
+        "The Lord of the Rings by J.R.R. Tolkien",
+        "The Catcher in the Rye by J.D. Salinger",
+        "The Old Man and the Sea by Ernest Hemingway",
+        "The Great Gatsby by F. Scott Fitzgerald",
+        "To Kill a Mockingbird by Harper Lee",
+        "The Da Vinci Code by Dan Brown",
+        "Lean In by Sheryl Sandberg",
+        "The Lean Startup by Eric Ries"
+    ]
+}

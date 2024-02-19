@@ -1,0 +1,29 @@
+{
+    "books": [
+        "Built to Last: Successful Habits of Visionary Companies",
+        "Competing on Analytics: The New Science of Winning",
+        "Good to Great: Why Some Companies Make the Leap... and Others Don't",
+        "Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company",
+        "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail",
+        "Business Adventures: Twelve Classic Tales from the World of Wall Street",
+        "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+        "The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger",
+        "Start with Why: How Great Leaders Inspire Everyone to Take Action",
+        "The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies",
+        "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers",
+        "The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution",
+        "Zero to One: Notes on Startups, or How to Build the Future",
+        "The Everything Store: Jeff Bezos and the Age of Amazon",
+        "The Everything Store: Jeff Bezos and the Age of Amazon",
+        "The Four Steps to the Epiphany: Successful Strategies for Products that Win",
+        "The Art of the Start 2.0: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything",
+        "The Long Tail: Why the Future of Business is Selling Less of More",
+        "The PayPal Wars: Battles with eBay, the Media, the Mafia, and the Rest of Planet Earth",
+        "The Founder's Dilemmas: Anticipating and Avoiding the Pitfalls That Can Sink a Startup",
+        "How Will You Measure Your Life?",
+        "High Output Management",
+        "The Goal: A Process of Ongoing Improvement",
+        "The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback",
+        "Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers"
+    ]
+}

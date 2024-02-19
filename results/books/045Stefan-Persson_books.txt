@@ -1,0 +1,29 @@
+{
+    "books": [
+        "Sapiens: A Brief History of Humankind",
+        "Homo Deus: A Brief History of Tomorrow",
+        "The Better Angels of Our Nature: Why Violence Has Declined",
+        "Enlightenment Now: The Case for Reason, Science, Humanism, and Progress",
+        "Guns, Germs, and Steel: The Fates of Human Societies",
+        "Factfulness: Ten Reasons We're Wrong About the World \u2013 and Why Things Are Better Than You Think",
+        "The Rational Optimist: How Prosperity Evolves",
+        "The Black Swan: The Impact of the Highly Improbable",
+        "Skin in the Game: Hidden Asymmetries in Daily Life",
+        "Antifragile: Things That Gain from Disorder",
+        "Thinking, Fast and Slow",
+        "Principles: Life and Work",
+        "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+        "Zero to One: Notes on Startups, or How to Build the Future",
+        "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail",
+        "The Innovator's Solution: Creating and Sustaining Successful Growth",
+        "Competing Against Time: How Time-Based Competition is Reshaping Global Markets",
+        "The Everything Store: Jeff Bezos and the Age of Amazon",
+        "Titan: The Life of John D. Rockefeller, Sr.",
+        "The Snowball: Warren Buffett and the Business of Life",
+        "Barbarians at the Gate: The Fall of RJR Nabisco",
+        "Shoe Dog: A Memoir by the Creator of Nike",
+        "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
+        "Steve Jobs",
+        "Bad Blood: Secrets and Lies in a Silicon Valley Startup"
+    ]
+}

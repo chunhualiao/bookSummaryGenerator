@@ -1,0 +1,29 @@
+{
+    "books": [
+        "Sapiens: A Brief History of Humankind",
+        "Shoe Dog: A Memoir by the Creator of Nike",
+        "The Alchemist",
+        "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+        "The Snowball: Warren Buffett and the Business of Life",
+        "The Power of Now: A Guide to Spiritual Enlightenment",
+        "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail",
+        "Steve Jobs",
+        "Good to Great: Why Some Companies Make the Leap... and Others Don't",
+        "The Art of Happiness",
+        "The Innovator's Solution: Creating and Sustaining Successful Growth",
+        "The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich",
+        "The Everything Store: Jeff Bezos and the Age of Amazon",
+        "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers",
+        "The Innovator's DNA: Mastering the Five Skills of Disruptive Innovators",
+        "The Richest Man in Babylon",
+        "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
+        "Grit: The Power of Passion and Perseverance",
+        "Start with Why: How Great Leaders Inspire Everyone to Take Action",
+        "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
+        "Thinking, Fast and Slow",
+        "The War of Art: Break Through the Blocks and Win Your Inner Creative Battles",
+        "Zero to One: Notes on Startups, or How to Build the Future",
+        "Meditations",
+        "Deep Work: Rules for Focused Success in a Distracted World"
+    ]
+}

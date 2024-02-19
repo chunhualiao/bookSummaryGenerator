@@ -1,0 +1,29 @@
+{
+    "books": [
+        "The Alchemist by Paulo Coelho",
+        "The Prince by Niccol\u00f2 Machiavelli",
+        "The Art of War by Sun Tzu",
+        "Atlas Shrugged by Ayn Rand",
+        "The Power of Now by Eckhart Tolle",
+        "Sapiens: A Brief History of Humankind by Yuval Noah Harari",
+        "The Lean Startup by Eric Ries",
+        "Thinking, Fast and Slow by Daniel Kahneman",
+        "The Innovator's Dilemma by Clayton M. Christensen",
+        "The 7 Habits of Highly Effective People by Stephen Covey",
+        "Zero to One by Peter Thiel",
+        "Good to Great by Jim Collins",
+        "The Intelligent Investor by Benjamin Graham",
+        "Start with Why by Simon Sinek",
+        "Shoe Dog by Phil Knight",
+        "The Lean Six Sigma Pocket Toolbook by Michael L. George",
+        "The Lean Machine by Dantar Oosterwal",
+        "The Design of Everyday Things by Don Norman",
+        "The Innovator's Solution by Clayton M. Christensen",
+        "Blue Ocean Strategy by W. Chan Kim and Ren\u00e9e Mauborgne",
+        "The Toyota Way by Jeffrey Liker",
+        "The Innovator's Prescription by Clayton M. Christensen",
+        "The Innovator's DNA by Jeff Dyer, Hal Gregersen, and Clayton M. Christensen",
+        "The Strategy and Tactics of Pricing by Thomas Nagle and John Hogan",
+        "Business Model Generation by Alexander Osterwalder and Yves Pigneur"
+    ]
+}

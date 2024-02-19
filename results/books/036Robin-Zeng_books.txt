@@ -1,0 +1,29 @@
+{
+    "books": [
+        "The Alchemist",
+        "Sapiens: A Brief History of Humankind",
+        "The Power of Now",
+        "The Four Agreements",
+        "Atomic Habits",
+        "Man's Search for Meaning",
+        "Blink: The Power of Thinking Without Thinking",
+        "The Subtle Art of Not Giving a F*ck",
+        "Educated: A Memoir",
+        "The Untethered Soul",
+        "The Gifts of Imperfection",
+        "The Art of Racing in the Rain",
+        "The Book Thief",
+        "The Road Less Traveled",
+        "Daring Greatly",
+        "Mindset: The New Psychology of Success",
+        "Born a Crime: Stories from a South African Childhood",
+        "The Power of Habit",
+        "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+        "The Courage to Be Disliked",
+        "The 5 Love Languages",
+        "The Life-Changing Magic of Tidying Up",
+        "The Subtle Art of Not Giving a F*ck",
+        "The Body Keeps the Score",
+        "Educated: A Memoir"
+    ]
+}

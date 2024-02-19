@@ -1,0 +1,29 @@
+{
+    "books": [
+        "The Innovator's Dilemma by Clayton M. Christensen",
+        "Good to Great by Jim Collins",
+        "The Lean Startup by Eric Ries",
+        "The Art of Thinking Clearly by Rolf Dobelli",
+        "The Alchemist by Paulo Coelho",
+        "The Power of Now by Eckhart Tolle",
+        "The World Is Flat by Thomas L. Friedman",
+        "Steve Jobs by Walter Isaacson",
+        "The Lean Entrepreneur by Brant Cooper and Patrick Vlaskovits",
+        "Shoe Dog by Phil Knight",
+        "Zero to One by Peter Thiel",
+        "The Hard Thing About Hard Things by Ben Horowitz",
+        "The Essays of Warren Buffett by Warren Buffett and Lawrence Cunningham",
+        "The Lean Product Playbook by Dan Olsen",
+        "The Innovator's Solution by Clayton M. Christensen and Michael E. Raynor",
+        "The Everything Store by Brad Stone",
+        "The Lean Product Playbook by Dan Olsen",
+        "The Hard Thing About Hard Things by Ben Horowitz",
+        "The Snowball: Warren Buffett and the Business of Life by Alice Schroeder",
+        "Made in America by Sam Walton",
+        "Thinking, Fast and Slow by Daniel Kahneman",
+        "The Innovators by Walter Isaacson",
+        "The Power of Habit by Charles Duhigg",
+        "Start with Why by Simon Sinek",
+        "Thinking in Bets by Annie Duke"
+    ]
+}

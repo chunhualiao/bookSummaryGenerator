@@ -1,0 +1,28 @@
+{
+    "books": [
+        "Sapiens: A Brief History of Humankind",
+        "The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution",
+        "Shoe Dog: A Memoir by the Creator of Nike",
+        "The Art of War",
+        "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+        "Outliers: The Story of Success",
+        "Steve Jobs",
+        "Zero to One: Notes on Startups, or How to Build the Future",
+        "The Everything Store: Jeff Bezos and the Age of Amazon",
+        "Titan: The Life of John D. Rockefeller, Sr.",
+        "The Everything Store: Jeff Bezos and the Age of Amazon",
+        "The Power of Now: A Guide to Spiritual Enlightenment",
+        "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
+        "Good to Great: Why Some Companies Make the Leap... and Others Don't",
+        "Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!",
+        "The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google",
+        "The Third Wave: An Entrepreneur's Vision of the Future",
+        "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers",
+        "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
+        "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail",
+        "Principles: Life and Work",
+        "The 5 AM Club: Own Your Morning. Elevate Your Life.",
+        "Start with Why: How Great Leaders Inspire Everyone to Take Action",
+        "The Social Animal: The Hidden Sources of Love, Character, and Achievement"
+    ]
+}

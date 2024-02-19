@@ -1,0 +1,29 @@
+{
+    "books": [
+        "The Brothers Karamazov",
+        "Crime and Punishment",
+        "War and Peace",
+        "Anna Karenina",
+        "The Master and Margarita",
+        "The Idiot",
+        "Doctor Zhivago",
+        "One Day in the Life of Ivan Denisovich",
+        "The Gulag Archipelago",
+        "The Three Musketeers",
+        "The Count of Monte Cristo",
+        "Les Mis\u00e9rables",
+        "To Kill a Mockingbird",
+        "The Great Gatsby",
+        "Moby-Dick",
+        "Pride and Prejudice",
+        "Jane Eyre",
+        "Wuthering Heights",
+        "The Picture of Dorian Gray",
+        "1984",
+        "Brave New World",
+        "The Catcher in the Rye",
+        "Slaughterhouse-Five",
+        "The Old Man and the Sea",
+        "One Hundred Years of Solitude"
+    ]
+}

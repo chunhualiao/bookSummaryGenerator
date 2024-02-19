@@ -1,0 +1,29 @@
+{
+    "books": [
+        "The Emperor of All Maladies: A Biography of Cancer",
+        "The Immortal Life of Henrietta Lacks",
+        "The Uninhabitable Earth: Life After Warming",
+        "The Fire Next Time",
+        "Just Mercy: A Story of Justice and Redemption",
+        "Educated: A Memoir",
+        "The Sixth Extinction: An Unnatural History",
+        "Becoming",
+        "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+        "The Color of Law: A Forgotten History of How Our Government Segregated America",
+        "The Short and Tragic Life of Robert Peace: A Brilliant Young Man Who Left Newark for the Ivy League",
+        "The Book of Joy: Lasting Happiness in a Changing World",
+        "The New Jim Crow: Mass Incarceration in the Age of Colorblindness",
+        "The Warmth of Other Suns: The Epic Story of America's Great Migration",
+        "The Underground Railroad",
+        "The Heartbeat of Wounded Knee: Native America from 1890 to the Present",
+        "The Power Broker: Robert Moses and the Fall of New York",
+        "The Path to Power: The Years of Lyndon Johnson",
+        "The Righteous Mind: Why Good People Are Divided by Politics and Religion",
+        "The Faraway Brothers: Two Young Migrants and the Making of an American Life",
+        "The Death and Life of Great American Cities",
+        "The Warmth of Other Suns: The Epic Story of America's Great Migration",
+        "The Devil's Highway: A True Story",
+        "The Color of Money: Black Banks and the Racial Wealth Gap",
+        "The Fire This Time: A New Generation Speaks about Race"
+    ]
+}

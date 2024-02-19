@@ -1,0 +1,29 @@
+{
+    "books": [
+        "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail",
+        "The Black Swan: The Impact of the Highly Improbable",
+        "The Art of War",
+        "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+        "Winning: The Ultimate Business How-To Book",
+        "The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company",
+        "The Innovator's Solution: Creating and Sustaining Successful Growth",
+        "The Goal: A Process of Ongoing Improvement",
+        "Competing on the Edge: Strategy as Structured Chaos",
+        "High Output Management",
+        "The Innovator's DNA: Mastering the Five Skills of Disruptive Innovators",
+        "How to Win at the Sport of Business: If I Can Do It, You Can Do It",
+        "Getting to Yes: Negotiating Agreement Without Giving In",
+        "Titan: The Life of John D. Rockefeller, Sr.",
+        "The Four Steps to the Epiphany",
+        "The Everything Store: Jeff Bezos and the Age of Amazon",
+        "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers",
+        "The Innovator's Prescription: A Disruptive Solution for Health Care",
+        "The Power of Now: A Guide to Spiritual Enlightenment",
+        "The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies",
+        "The Elements of Style",
+        "Confessions of an Economic Hit Man",
+        "The World is Flat: A Brief History of the Twenty-First Century",
+        "The Age of Turbulence: Adventures in a New World",
+        "Shoe Dog: A Memoir by the Creator of Nike"
+    ]
+}

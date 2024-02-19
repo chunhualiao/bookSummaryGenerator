@@ -1,0 +1,29 @@
+{
+    "books": [
+        "The Intelligent Investor by Benjamin Graham",
+        "Titan: The Life of John D. Rockefeller, Sr. by Ron Chernow",
+        "Common Stocks and Uncommon Profits by Philip Fisher",
+        "The Essays of Warren Buffett by Warren E. Buffett and Lawrence A. Cunningham",
+        "Steve Jobs by Walter Isaacson",
+        "Business Adventures: Twelve Classic Tales from the World of Wall Street by John Brooks",
+        "The Snowball: Warren Buffett and the Business of Life by Alice Schroeder",
+        "Benjamin Franklin: An American Life by Walter Isaacson",
+        "The Power of Now: A Guide to Spiritual Enlightenment by Eckhart Tolle",
+        "The Road to Character by David Brooks",
+        "Lincoln by David Herbert Donald",
+        "Einstein: His Life and Universe by Walter Isaacson",
+        "Profiles in Courage by John F. Kennedy",
+        "The Quest: Energy, Security, and the Remaking of the Modern World by Daniel Yergin",
+        "The Prince by Niccol\u00f2 Machiavelli",
+        "The World Is Flat: A Brief History of the Twenty-first Century by Thomas L. Friedman",
+        "The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution by Walter Isaacson",
+        "The Third Wave: An Entrepreneur's Vision of the Future by Steve Case",
+        "The New New Thing: A Silicon Valley Story by Michael Lewis",
+        "The Wealth of Nations by Adam Smith",
+        "The End of Poverty: Economic Possibilities for Our Time by Jeffrey D. Sachs",
+        "Guns, Germs, and Steel: The Fates of Human Societies by Jared Diamond",
+        "The House of Morgan: An American Banking Dynasty and the Rise of Modern Finance by Ron Chernow",
+        "Outliers: The Story of Success by Malcolm Gladwell",
+        "Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration by Ed Catmull and Amy Wallace"
+    ]
+}

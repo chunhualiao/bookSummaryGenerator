@@ -1,0 +1,29 @@
+{
+    "books": [
+        "The Lean Startup",
+        "Zero to One",
+        "Sapiens: A Brief History of Humankind",
+        "The Innovator's Dilemma",
+        "Thinking, Fast and Slow",
+        "Start with Why",
+        "Good to Great",
+        "The Innovator's Solution",
+        "The Hard Thing About Hard Things",
+        "The Everything Store",
+        "Shoe Dog",
+        "The Outsiders",
+        "The Four",
+        "Principles",
+        "Blitzscaling",
+        "The Art of War",
+        "The Great Transformation",
+        "The Innovator's Prescription",
+        "The Second Machine Age",
+        "The Startup Owner's Manual",
+        "The Innovator's DNA",
+        "The Master Switch",
+        "The World Is Flat",
+        "The Innovators",
+        "The End of Power"
+    ]
+}

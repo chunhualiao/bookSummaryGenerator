@@ -1,0 +1,29 @@
+{
+    "books": [
+        "To Kill a Mockingbird",
+        "1984",
+        "Pride and Prejudice",
+        "The Catcher in the Rye",
+        "Brave New World",
+        "The Great Gatsby",
+        "Animal Farm",
+        "The Picture of Dorian Gray",
+        "Frankenstein",
+        "Jane Eyre",
+        "The Bell Jar",
+        "Wuthering Heights",
+        "One Hundred Years of Solitude",
+        "The Road",
+        "The Grapes of Wrath",
+        "Lord of the Flies",
+        "Crime and Punishment",
+        "The Kite Runner",
+        "The Color Purple",
+        "Beloved",
+        "The Alchemist",
+        "Siddhartha",
+        "The Little Prince",
+        "The Book Thief",
+        "The Lord of the Rings"
+    ]
+}

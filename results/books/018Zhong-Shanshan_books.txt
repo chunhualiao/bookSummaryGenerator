@@ -1,0 +1,29 @@
+{
+    "books": [
+        "To Live",
+        "The Three-Body Problem",
+        "Red Sorghum",
+        "Wolf Totem",
+        "The Book of Chuang Tzu",
+        "The Analects of Confucius",
+        "The Art of War",
+        "Dream of the Red Chamber",
+        "The Water Margin",
+        "Romance of the Three Kingdoms",
+        "Journey to the West",
+        "Strange Tales from a Chinese Studio",
+        "The Dream of the Butterfly",
+        "The Plum in the Golden Vase",
+        "The Scholars",
+        "The Good Earth",
+        "The Story of the Stone",
+        "The Creation of the Gods",
+        "The Travels of Lao Can",
+        "The Scholars",
+        "Rickshaw Boy",
+        "Fortress Besieged",
+        "The Family",
+        "The Execution of Mayor Yin",
+        "Rulin waishi"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "books": [
+        "The Innovator's Dilemma by Clayton M. Christensen",
+        "The Black Swan by Nassim Nicholas Taleb",
+        "The World Is Flat by Thomas L. Friedman",
+        "Guns, Germs, and Steel by Jared Diamond",
+        "The Better Angels of Our Nature by Steven Pinker",
+        "The Quest by Daniel Yergin",
+        "The Prize by Daniel Yergin",
+        "The Shallows by Nicholas Carr",
+        "The Big Short by Michael Lewis",
+        "Thinking, Fast and Slow by Daniel Kahneman",
+        "The Everything Store by Brad Stone",
+        "The Lean Startup by Eric Ries",
+        "The Four by Scott Galloway",
+        "Sapiens by Yuval Noah Harari",
+        "Homo Deus by Yuval Noah Harari",
+        "The Master Switch by Tim Wu",
+        "The New Jim Crow by Michelle Alexander",
+        "The Undoing Project by Michael Lewis",
+        "The Seventh Sense by Joshua Cooper Ramo",
+        "The Bully Pulpit by Doris Kearns Goodwin",
+        "The Mythical Man-Month by Frederick P. Brooks Jr.",
+        "Steve Jobs by Walter Isaacson",
+        "The Immortal Life of Henrietta Lacks by Rebecca Skloot",
+        "The Boys in the Boat by Daniel James Brown",
+        "The Second Machine Age by Erik Brynjolfsson and Andrew McAfee"
+    ]
+}

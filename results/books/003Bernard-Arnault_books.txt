@@ -1,0 +1,29 @@
+{
+    "books": [
+        "The Lean Startup by Eric Ries",
+        "Shoe Dog by Phil Knight",
+        "Built to Last by Jim Collins and Jerry I. Porras",
+        "The Innovator's Dilemma by Clayton M. Christensen",
+        "Good to Great by Jim Collins",
+        "Zero to One by Peter Thiel",
+        "The Art of War by Sun Tzu",
+        "Steve Jobs by Walter Isaacson",
+        "The Everything Store by Brad Stone",
+        "Elon Musk by Ashlee Vance",
+        "The Hard Thing About Hard Things by Ben Horowitz",
+        "Creativity, Inc. by Ed Catmull",
+        "Leaders Eat Last by Simon Sinek",
+        "Thinking, Fast and Slow by Daniel Kahneman",
+        "Start with Why by Simon Sinek",
+        "The Four by Scott Galloway",
+        "The Power of Now by Eckhart Tolle",
+        "The 7 Habits of Highly Effective People by Stephen R. Covey",
+        "Mindset: The New Psychology of Success by Carol S. Dweck",
+        "The Alchemist by Paulo Coelho",
+        "Sapiens: A Brief History of Humankind by Yuval Noah Harari",
+        "Atomic Habits by James Clear",
+        "Grit: The Power of Passion and Perseverance by Angela Duckworth",
+        "The Subtle Art of Not Giving a F*ck by Mark Manson",
+        "Deep Work by Cal Newport"
+    ]
+}

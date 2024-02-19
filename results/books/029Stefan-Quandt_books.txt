@@ -1,0 +1,29 @@
+{
+    "books": [
+        "The Innovator's Dilemma by Clayton M. Christensen",
+        "Sapiens: A Brief History of Humankind by Yuval Noah Harari",
+        "The Lean Startup by Eric Ries",
+        "Thinking, Fast and Slow by Daniel Kahneman",
+        "Zero to One by Peter Thiel",
+        "Principles by Ray Dalio",
+        "Good to Great by Jim Collins",
+        "Start with Why by Simon Sinek",
+        "The 7 Habits of Highly Effective People by Stephen R. Covey",
+        "The Power of Now by Eckhart Tolle",
+        "Grit: The Power of Passion and Perseverance by Angela Duckworth",
+        "Atomic Habits by James Clear",
+        "Man's Search for Meaning by Viktor E. Frankl",
+        "Deep Work by Cal Newport",
+        "The Four Agreements by Don Miguel Ruiz",
+        "Essentialism: The Disciplined Pursuit of Less by Greg McKeown",
+        "Daring Greatly by Bren\u00e9 Brown",
+        "The Subtle Art of Not Giving a F*ck by Mark Manson",
+        "Emotional Intelligence by Daniel Goleman",
+        "Mindset: The New Psychology of Success by Carol S. Dweck",
+        "The Art of War by Sun Tzu",
+        "Drive: The Surprising Truth About What Motivates Us by Daniel H. Pink",
+        "Factfulness by Hans Rosling",
+        "The Alchemist by Paulo Coelho",
+        "The Intelligent Investor by Benjamin Graham"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "books": [
+        "Snow Crash",
+        "The Diamond Age",
+        "Cryptonomicon",
+        "The Baroque Cycle",
+        "Dune",
+        "Foundation series",
+        "Neuromancer",
+        "The Lord of the Rings",
+        "Game of Thrones series",
+        "The Name of the Wind",
+        "The Wise Man's Fear",
+        "The Lies of Locke Lamora",
+        "The Republic of Thieves",
+        "The Kingkiller Chronicle",
+        "The Hobbit",
+        "The Silmarillion",
+        "The Malazan Book of the Fallen series",
+        "Perdido Street Station",
+        "The Scar",
+        "Iron Council",
+        "The City & the City",
+        "Embassytown",
+        "The Yiddish Policemen's Union",
+        "The Road",
+        "Blood Meridian"
+    ]
+}

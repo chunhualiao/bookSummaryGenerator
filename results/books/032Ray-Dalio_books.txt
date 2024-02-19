@@ -1,0 +1,28 @@
+{
+    "books": [
+        "Principles: Life and Work",
+        "The Outsiders: Eight Unconventional CEOs and Their Radically Rational Blueprint for Success",
+        "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger",
+        "The Lessons of History",
+        "The Hero with a Thousand Faces",
+        "The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies",
+        "The Wright Brothers",
+        "The Last Lion: Winston Spencer Churchill, Visions of Glory, 1874-1932",
+        "The Last Lion: Winston Spencer Churchill, Alone, 1932-1940",
+        "The Last Lion: Winston Spencer Churchill, Defender of the Realm, 1940-1965",
+        "River Out of Eden: A Darwinian View of Life",
+        "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail",
+        "The Innovator's Solution: Creating and Sustaining Successful Growth",
+        "Deep Work: Rules for Focused Success in a Distracted World",
+        "Shoe Dog: A Memoir by the Creator of Nike",
+        "Factfulness: Ten Reasons We're Wrong About the World - and Why Things Are Better Than You Think",
+        "Guns, Germs, and Steel: The Fates of Human Societies",
+        "The Lessons of History",
+        "The Clash of the Cultures: Investment vs. Speculation",
+        "Big Debt Crises",
+        "The Idealist: Jeffrey Sachs and the Quest to End Poverty",
+        "The Structure of Scientific Revolutions",
+        "Principles of Economics",
+        "The Hero with a Thousand Faces"
+    ]
+}

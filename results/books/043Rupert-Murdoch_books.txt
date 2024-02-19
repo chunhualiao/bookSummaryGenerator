@@ -1,0 +1,29 @@
+{
+    "books": [
+        "The Great Gatsby by F. Scott Fitzgerald",
+        "War and Peace by Leo Tolstoy",
+        "To Kill a Mockingbird by Harper Lee",
+        "Moby-Dick by Herman Melville",
+        "1984 by George Orwell",
+        "Pride and Prejudice by Jane Austen",
+        "The Catcher in the Rye by J.D. Salinger",
+        "The Lord of the Rings by J.R.R. Tolkien",
+        "The Grapes of Wrath by John Steinbeck",
+        "Brave New World by Aldous Huxley",
+        "The Sound and the Fury by William Faulkner",
+        "Crime and Punishment by Fyodor Dostoevsky",
+        "The Old Man and the Sea by Ernest Hemingway",
+        "Beloved by Toni Morrison",
+        "One Hundred Years of Solitude by Gabriel Garcia Marquez",
+        "Anna Karenina by Leo Tolstoy",
+        "Catch-22 by Joseph Heller",
+        "The Road by Cormac McCarthy",
+        "The Picture of Dorian Gray by Oscar Wilde",
+        "In Cold Blood by Truman Capote",
+        "The Sun Also Rises by Ernest Hemingway",
+        "Wuthering Heights by Emily Bronte",
+        "Heart of Darkness by Joseph Conrad",
+        "Middlemarch by George Eliot",
+        "Slaughterhouse-Five by Kurt Vonnegut"
+    ]
+}

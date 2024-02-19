@@ -1,0 +1,29 @@
+{
+    "books": [
+        "Sapiens: A Brief History of Humankind by Yuval Noah Harari",
+        "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries",
+        "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail by Clayton M. Christensen",
+        "The Everything Store: Jeff Bezos and the Age of Amazon by Brad Stone",
+        "Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel and Blake Masters",
+        "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers by Ben Horowitz",
+        "The Four Steps to the Epiphany by Steve Blank",
+        "The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World by Brad Stone",
+        "Thinking, Fast and Slow by Daniel Kahneman",
+        "The Art of Happiness by Dalai Lama XIV and Howard C. Cutler",
+        "The Art of War by Sun Tzu",
+        "The Alchemist by Paulo Coelho",
+        "The Innovator's Solution: Creating and Sustaining Successful Growth by Clayton M. Christensen and Michael E. Raynor",
+        "The Fifth Discipline: The Art and Practice of the Learning Organization by Peter M. Senge",
+        "The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback by Dan Olsen",
+        "The Innovator's DNA: Mastering the Five Skills of Disruptive Innovators by Jeff Dyer, Hal Gregersen, and Clayton M. Christensen",
+        "The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win by Gene Kim, Kevin Behr, and George Spafford",
+        "The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback by Dan Olsen",
+        "The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World by Brad Stone",
+        "The Art of Happiness by Dalai Lama XIV and Howard C. Cutler",
+        "The Art of War by Sun Tzu",
+        "The Alchemist by Paulo Coelho",
+        "The Innovator's Solution: Creating and Sustaining Successful Growth by Clayton M. Christensen and Michael E. Raynor",
+        "The Fifth Discipline: The Art and Practice of the Learning Organization by Peter M. Senge",
+        "The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback by Dan Olsen"
+    ]
+}

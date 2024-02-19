@@ -1,0 +1,29 @@
+{
+    "books": [
+        "Sapiens: A Brief History of Humankind",
+        "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+        "Thinking, Fast and Slow",
+        "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail",
+        "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers",
+        "Zero to One: Notes on Startups, or How to Build the Future",
+        "The Innovator's Solution: Creating and Sustaining Successful Growth",
+        "The Everything Store: Jeff Bezos and the Age of Amazon",
+        "The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google",
+        "The Art of War",
+        "Start with Why: How Great Leaders Inspire Everyone to Take Action",
+        "Deep Work: Rules for Focused Success in a Distracted World",
+        "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
+        "The Intelligent Investor",
+        "Good to Great: Why Some Companies Make the Leap... and Others Don't",
+        "The Making of a Manager: What to Do When Everyone Looks to You",
+        "Principles: Life and Work",
+        "Leaders Eat Last: Why Some Teams Pull Together and Others Don't",
+        "Shoe Dog: A Memoir by the Creator of Nike",
+        "Measure What Matters: Online Tools for Understanding Customers, Social Media, Engagement, and Key Relationships",
+        "The Power of Habit: Why We Do What We Do in Life and Business",
+        "Originals: How Non-Conformists Move the World",
+        "Lean Analytics: Use Data to Build a Better Startup Faster",
+        "Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies",
+        "Building a StoryBrand: Clarify Your Message So Customers Will Listen"
+    ]
+}

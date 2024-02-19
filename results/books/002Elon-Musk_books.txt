@@ -1,0 +1,29 @@
+{
+    "books": [
+        "Einstein: His Life and Universe by Walter Isaacson",
+        "Superintelligence: Paths, Dangers, Strategies by Nick Bostrom",
+        "The Lord of the Rings by J.R.R. Tolkien",
+        "Foundation by Isaac Asimov",
+        "Structures: Or Why Things Don't Fall Down by J.E. Gordon",
+        "Benjamin Franklin: An American Life by Walter Isaacson",
+        "Merchants of Doubt by Naomi Oreskes and Erik M. Conway",
+        "The Hitchhiker's Guide to the Galaxy by Douglas Adams",
+        "Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel",
+        "Life 3.0: Being Human in the Age of Artificial Intelligence by Max Tegmark",
+        "SuperFreakonomics by Steven D. Levitt and Stephen J. Dubner",
+        "Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration by Ed Catmull and Amy Wallace",
+        "Structures: Or Why Things Don't Fall Down by J.E. Gordon",
+        "The Moon Is a Harsh Mistress by Robert A. Heinlein",
+        "Lord of the Flies by William Golding",
+        "Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel",
+        "Foundation by Isaac Asimov",
+        "Hitchhiker's Guide to the Galaxy by Douglas Adams",
+        "Structures: Or Why Things Don't Fall Down by J.E. Gordon",
+        "Benjamin Franklin: An American Life by Walter Isaacson",
+        "Superintelligence: Paths, Dangers, Strategies by Nick Bostrom",
+        "Einstein: His Life and Universe by Walter Isaacson",
+        "The Lord of the Rings by J.R.R. Tolkien",
+        "Merchants of Doubt by Naomi Oreskes and Erik M. Conway",
+        "The Hitchhiker's Guide to the Galaxy by Douglas Adams"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "books": [
+        "The Lean Startup",
+        "Shoe Dog",
+        "Good to Great",
+        "The Innovator's Dilemma",
+        "Start with Why",
+        "Zero to One",
+        "The Art of War",
+        "Steve Jobs",
+        "The Everything Store",
+        "Delivering Happiness",
+        "The Hard Thing About Hard Things",
+        "Sapiens: A Brief History of Humankind",
+        "The Power of Habit",
+        "Built to Last",
+        "Mindset: The New Psychology of Success",
+        "Grit: The Power of Passion and Perseverance",
+        "Originals: How Non-Conformists Move the World",
+        "Deep Work: Rules for Focused Success in a Distracted World",
+        "The Four Agreements",
+        "Thinking, Fast and Slow",
+        "The 7 Habits of Highly Effective People",
+        "The Alchemist",
+        "The Tipping Point",
+        "Outliers: The Story of Success",
+        "The 4-Hour Workweek"
+    ]
+}

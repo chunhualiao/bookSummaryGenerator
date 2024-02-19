@@ -1,0 +1,29 @@
+{
+    "books": [
+        "The Rosie Project",
+        "The Better Angels of Our Nature",
+        "The Sixth Extinction",
+        "The Vital Question",
+        "Seveneves",
+        "Sapiens: A Brief History of Humankind",
+        "The Grid",
+        "The Power to Compete",
+        "How Not to Be Wrong",
+        "The Bully Pulpit",
+        "The Man Who Fed the World",
+        "Business Adventures",
+        "The Road to Character",
+        "The Great Gatsby",
+        "Shoe Dog",
+        "The Gene",
+        "The Myth of the Strong Leader",
+        "The Rosie Effect",
+        "String Theory",
+        "The Art of Being Unreasonable",
+        "Hyperbole and a Half",
+        "Mindset",
+        "Tap Dancing to Work",
+        "The Emperor of All Maladies",
+        "The White Man's Burden"
+    ]
+}

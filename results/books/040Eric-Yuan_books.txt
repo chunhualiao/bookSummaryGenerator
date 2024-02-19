@@ -1,0 +1,29 @@
+{
+    "books": [
+        "The Innovator's Dilemma by Clayton M. Christensen",
+        "The Lean Startup by Eric Ries",
+        "Zero to One by Peter Thiel",
+        "High Output Management by Andrew S. Grove",
+        "Inspired: How To Create Products Customers Love by Marty Cagan",
+        "Originals: How Non-Conformists Move the World by Adam Grant",
+        "The Hard Thing About Hard Things by Ben Horowitz",
+        "Measure What Matters by John Doerr",
+        "Competing Against Luck by Clayton M. Christensen",
+        "Blitzscaling by Reid Hoffman and Chris Yeh",
+        "Hooked: How to Build Habit-Forming Products by Nir Eyal",
+        "The Everything Store: Jeff Bezos and the Age of Amazon by Brad Stone",
+        "Sapiens: A Brief History of Humankind by Yuval Noah Harari",
+        "Principles: Life and Work by Ray Dalio",
+        "Shoe Dog: A Memoir by the Creator of Nike by Phil Knight",
+        "Lean Analytics by Alistair Croll and Ben Yoskovitz",
+        "The Innovator's Solution by Clayton M. Christensen",
+        "To Pixar and Beyond: My Unlikely Journey with Steve Jobs to Make Entertainment History by Lawrence Levy",
+        "Rework by Jason Fried and David Heinemeier Hansson",
+        "The Lean Product Playbook by Dan Olsen",
+        "Lean UX: Designing Great Products with Agile Teams by Jeff Gothelf and Josh Seiden",
+        "Bad Blood: Secrets and Lies in a Silicon Valley Startup by John Carreyrou",
+        "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future by Ashlee Vance",
+        "The Lean Brand by Jeremiah Gardner and Brant Cooper",
+        "The Design of Everyday Things by Don Norman"
+    ]
+}

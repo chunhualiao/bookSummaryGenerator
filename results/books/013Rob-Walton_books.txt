@@ -1,0 +1,29 @@
+{
+    "books": [
+        "The Catcher in the Rye",
+        "To Kill a Mockingbird",
+        "1984",
+        "Pride and Prejudice",
+        "The Great Gatsby",
+        "Brave New World",
+        "The Lord of the Rings",
+        "The Hobbit",
+        "Animal Farm",
+        "The Alchemist",
+        "The Kite Runner",
+        "The Book Thief",
+        "One Hundred Years of Solitude",
+        "The Picture of Dorian Gray",
+        "The Road",
+        "The Hitchhiker's Guide to the Galaxy",
+        "Slaughterhouse-Five",
+        "In Cold Blood",
+        "The Bell Jar",
+        "The Stranger",
+        "Where the Red Fern Grows",
+        "The Sun Also Rises",
+        "The Grapes of Wrath",
+        "The Old Man and the Sea",
+        "Fahrenheit 451"
+    ]
+}

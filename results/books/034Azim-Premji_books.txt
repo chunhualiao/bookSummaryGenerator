@@ -1,0 +1,29 @@
+{
+    "books": [
+        "The Road Ahead by Bill Gates",
+        "The Innovator's Dilemma by Clayton M. Christensen",
+        "The Wealth of Nations by Adam Smith",
+        "The Lean Startup by Eric Ries",
+        "The World Is Flat by Thomas L. Friedman",
+        "In Search of Excellence by Thomas J. Peters and Robert H. Waterman Jr.",
+        "Good to Great by Jim Collins",
+        "The Art of War by Sun Tzu",
+        "The Alchemist by Paulo Coelho",
+        "Man's Search for Meaning by Viktor E. Frankl",
+        "Sapiens: A Brief History of Humankind by Yuval Noah Harari",
+        "The Power of Now by Eckhart Tolle",
+        "Thinking, Fast and Slow by Daniel Kahneman",
+        "Start with Why by Simon Sinek",
+        "The 7 Habits of Highly Effective People by Stephen R. Covey",
+        "The Four Agreements by Don Miguel Ruiz",
+        "Grit: The Power of Passion and Perseverance by Angela Duckworth",
+        "Lean In: Women, Work, and the Will to Lead by Sheryl Sandberg",
+        "Quiet: The Power of Introverts in a World That Can't Stop Talking by Susan Cain",
+        "Mindset: The New Psychology of Success by Carol S. Dweck",
+        "Originals: How Non-Conformists Move the World by Adam Grant",
+        "The Hard Thing About Hard Things by Ben Horowitz",
+        "Outliers: The Story of Success by Malcolm Gladwell",
+        "The Lean Product Playbook by Dan Olsen",
+        "The Innovator's Solution by Clayton M. Christensen and Michael E. Raynor"
+    ]
+}

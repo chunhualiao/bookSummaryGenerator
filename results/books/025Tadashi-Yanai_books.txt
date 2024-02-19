@@ -1,0 +1,29 @@
+{
+    "books": [
+        "The Innovator's Dilemma by Clayton M. Christensen",
+        "Shoe Dog by Phil Knight",
+        "Made in Japan by Akio Morita and Edwin M. Reingold",
+        "Steve Jobs by Walter Isaacson",
+        "Start with Why by Simon Sinek",
+        "Good to Great by Jim Collins",
+        "The Lean Startup by Eric Ries",
+        "The Art of War by Sun Tzu",
+        "Zero to One by Peter Thiel",
+        "The Hard Thing About Hard Things by Ben Horowitz",
+        "Business Adventures by John Brooks",
+        "The Everything Store by Brad Stone",
+        "Poor Charlie's Almanack by Charlie Munger",
+        "Lean In by Sheryl Sandberg",
+        "The Lean Product Playbook by Dan Olsen",
+        "Originals by Adam Grant",
+        "The Power of Habit by Charles Duhigg",
+        "The Four by Scott Galloway",
+        "The Third Wave by Steve Case",
+        "Hatching Twitter by Nick Bilton",
+        "The Long Tail by Chris Anderson",
+        "The Black Swan by Nassim Nicholas Taleb",
+        "Sapiens by Yuval Noah Harari",
+        "Grit by Angela Duckworth",
+        "The Lean Machine by Dantar Oosterwal"
+    ]
+}

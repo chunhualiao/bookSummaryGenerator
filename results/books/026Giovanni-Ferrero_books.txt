@@ -1,0 +1,29 @@
+{
+    "books": [
+        "The Alchemist by Paulo Coelho",
+        "Sapiens: A Brief History of Humankind by Yuval Noah Harari",
+        "Influence: The Psychology of Persuasion by Robert B. Cialdini",
+        "Shoe Dog: A Memoir by the Creator of Nike by Phil Knight",
+        "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries",
+        "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail by Clayton M. Christensen",
+        "Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel",
+        "Thinking, Fast and Slow by Daniel Kahneman",
+        "Good to Great: Why Some Companies Make the Leap... and Others Don't by Jim Collins",
+        "The Four Agreements: A Practical Guide to Personal Freedom by Don Miguel Ruiz",
+        "Start with Why: How Great Leaders Inspire Everyone to Take Action by Simon Sinek",
+        "The Power of Now: A Guide to Spiritual Enlightenment by Eckhart Tolle",
+        "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear",
+        "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change by Stephen R. Covey",
+        "Man's Search for Meaning by Viktor E. Frankl",
+        "The Art of War by Sun Tzu",
+        "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers by Ben Horowitz",
+        "Mindset: The New Psychology of Success by Carol S. Dweck",
+        "Grit: The Power of Passion and Perseverance by Angela Duckworth",
+        "Emotional Intelligence: Why It Can Matter More Than IQ by Daniel Goleman",
+        "The Tipping Point: How Little Things Can Make a Big Difference by Malcolm Gladwell",
+        "Outliers: The Story of Success by Malcolm Gladwell",
+        "Blink: The Power of Thinking Without Thinking by Malcolm Gladwell",
+        "The Richest Man in Babylon by George S. Clason",
+        "Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not! by Robert T. Kiyosaki"
+    ]
+}

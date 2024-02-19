@@ -1,0 +1,29 @@
+{
+    "books": [
+        "The Innovator's Dilemma by Clayton Christensen",
+        "How to Change Your Mind by Michael Pollan",
+        "The Master Switch by Tim Wu",
+        "The Selfish Gene by Richard Dawkins",
+        "The Emperor of All Maladies by Siddhartha Mukherjee",
+        "The Checklist Manifesto by Atul Gawande",
+        "I Am a Strange Loop by Douglas Hofstadter",
+        "The Lean Startup by Eric Ries",
+        "The Information by James Gleick",
+        "The Singularity Is Near by Ray Kurzweil",
+        "The Story of Art by E.H. Gombrich",
+        "The Man Who Knew Infinity by Robert Kanigel",
+        "The Structure of Scientific Revolutions by Thomas Kuhn",
+        "The Master and His Emissary by Iain McGilchrist",
+        "The Art of Computer Programming by Donald Knuth",
+        "The Code Book by Simon Singh",
+        "The Design of Everyday Things by Don Norman",
+        "The Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, and Jerome Friedman",
+        "The Gene: An Intimate History by Siddhartha Mukherjee",
+        "The Innovators by Walter Isaacson",
+        "The Better Angels of Our Nature by Steven Pinker",
+        "The Great Influenza by John M. Barry",
+        "The Second Machine Age by Erik Brynjolfsson and Andrew McAfee",
+        "The Structure of Scientific Revolutions by Thomas Kuhn",
+        "The Structure of Scientific Revolutions by Thomas Kuhn"
+    ]
+}

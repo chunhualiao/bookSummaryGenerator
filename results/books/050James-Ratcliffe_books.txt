@@ -1,0 +1,29 @@
+{
+    "books": [
+        "The Catcher in the Rye",
+        "To Kill a Mockingbird",
+        "1984",
+        "Brave New World",
+        "The Great Gatsby",
+        "Pride and Prejudice",
+        "The Lord of the Rings",
+        "Harry Potter and the Sorcerer's Stone",
+        "The Hitchhiker's Guide to the Galaxy",
+        "The Chronicles of Narnia",
+        "Moby-Dick",
+        "Slaughterhouse-Five",
+        "Frankenstein",
+        "Wuthering Heights",
+        "Crime and Punishment",
+        "The Picture of Dorian Gray",
+        "Jane Eyre",
+        "Don Quixote",
+        "The Bell Jar",
+        "The Alchemist",
+        "One Hundred Years of Solitude",
+        "The Road",
+        "The Girl with the Dragon Tattoo",
+        "The Kite Runner",
+        "Gone Girl"
+    ]
+}

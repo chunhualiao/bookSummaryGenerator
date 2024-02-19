@@ -1,0 +1,29 @@
+{
+    "books": [
+        "Business Adventures: Twelve Classic Tales from the World of Wall Street",
+        "The Intelligent Investor: The Definitive Book on Value Investing",
+        "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail",
+        "Guns, Germs, and Steel: The Fates of Human Societies",
+        "Sapiens: A Brief History of Humankind",
+        "The Art of War",
+        "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+        "The Outsiders: Eight Unconventional CEOs and Their Radically Rational Blueprint for Success",
+        "The Four Agreements: A Practical Guide to Personal Freedom",
+        "Thinking, Fast and Slow",
+        "Originals: How Non-Conformists Move the World",
+        "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers",
+        "Shoe Dog: A Memoir by the Creator of Nike",
+        "Start with Why: How Great Leaders Inspire Everyone to Take Action",
+        "Influence: The Psychology of Persuasion",
+        "Good to Great: Why Some Companies Make the Leap... and Others Don't",
+        "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
+        "The Power of Now: A Guide to Spiritual Enlightenment",
+        "Zero to One: Notes on Startups, or How to Build the Future",
+        "Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!",
+        "The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results",
+        "The Richest Man in Babylon",
+        "The Alchemist",
+        "Lean In: Women, Work, and the Will to Lead",
+        "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"
+    ]
+}

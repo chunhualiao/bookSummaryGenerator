@@ -1,0 +1,29 @@
+{
+    "books": [
+        "War and Peace by Leo Tolstoy",
+        "Crime and Punishment by Fyodor Dostoevsky",
+        "The Odyssey by Homer",
+        "The Brothers Karamazov by Fyodor Dostoevsky",
+        "Anna Karenina by Leo Tolstoy",
+        "Middlemarch by George Eliot",
+        "To the Lighthouse by Virginia Woolf",
+        "In Search of Lost Time by Marcel Proust",
+        "Don Quixote by Miguel de Cervantes",
+        "Moby-Dick by Herman Melville",
+        "The Divine Comedy by Dante Alighieri",
+        "Pride and Prejudice by Jane Austen",
+        "One Hundred Years of Solitude by Gabriel Garcia Marquez",
+        "The Great Gatsby by F. Scott Fitzgerald",
+        "Jane Eyre by Charlotte Bronte",
+        "Wuthering Heights by Emily Bronte",
+        "Beloved by Toni Morrison",
+        "The Catcher in the Rye by J.D. Salinger",
+        "The Sound and the Fury by William Faulkner",
+        "The Picture of Dorian Gray by Oscar Wilde",
+        "The Bell Jar by Sylvia Plath",
+        "Heart of Darkness by Joseph Conrad",
+        "Mrs. Dalloway by Virginia Woolf",
+        "The Stranger by Albert Camus",
+        "A Room of One's Own by Virginia Woolf"
+    ]
+}

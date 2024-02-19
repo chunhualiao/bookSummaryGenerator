@@ -1,0 +1,29 @@
+{
+    "books": [
+        "The Old Man and the Sea",
+        "Moby Dick",
+        "In Search of Lost Time",
+        "One Hundred Years of Solitude",
+        "Crime and Punishment",
+        "The Stranger",
+        "The Master and Margarita",
+        "To Kill a Mockingbird",
+        "The Catcher in the Rye",
+        "The Great Gatsby",
+        "Pride and Prejudice",
+        "Anna Karenina",
+        "Beloved",
+        "Slaughterhouse-Five",
+        "Don Quixote",
+        "War and Peace",
+        "The Brothers Karamazov",
+        "The Grapes of Wrath",
+        "Wuthering Heights",
+        "Mrs. Dalloway",
+        "The Picture of Dorian Gray",
+        "Heart of Darkness",
+        "A Tale of Two Cities",
+        "Frankenstein",
+        "Jane Eyre"
+    ]
+}
