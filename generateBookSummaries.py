@@ -8,11 +8,12 @@
 
 from openai import OpenAI
 import re
-import csv
 import os
 import time
 from pathlib import Path
 
+# new_script.py or any other script
+from utils import parse_book_list
 #---------------------------------------------
 # global variables
 # a txt file providing book information
@@ -95,41 +96,9 @@ def estimate_word_count(text):
 
 #---------------------------------------------
 # Function to parse the book list file
-def parse_book_list(file_path):
-    books = []
-    with open(file_path, 'r', encoding='utf-8') as file:
-        # Attempt to detect and handle CSV format issues
-        try:
-            reader = csv.DictReader((line.replace('\0', '') for line in file), delimiter='|')
-            # Trim spaces from headers
-            reader.fieldnames = [name.strip() for name in reader.fieldnames]
-            headers = reader.fieldnames
-            # Check for the presence of expected headers
-            headers = reader.fieldnames
-            expected_headers = ['Recommended by', 'Books', 'Recommendation Count']
-            missing_headers = [h for h in expected_headers if h not in headers]
-            if missing_headers:
-                raise ValueError(f"Missing expected headers: {missing_headers}. Found headers: {headers}")
-            
-            for row in reader:
-                if row['Books'].strip() == '--':
-                   print(f"Skipping row with 'Books' value as '--': {row}")
-                   continue
+# TODO 
+#def parse_book_list(file_path):
 
-                try:
-              
-                    book = row['Books'].strip(), row['Recommendation Count'].strip()  # Adjusted to remove leading space in key
-                    
-                    books.append(book)
-                except KeyError as e:
-                    # Provide a detailed error message for debugging
-#                    raise KeyError(f"KeyError: The key {e} is missing from the row. Available keys are: {list(row.keys())}")
-                     print(f"Warning: The key {e} is missing from the row. Available keys are: {list(row.keys())}. This row will be skipped.")
-        except Exception as e:
-            # Catch and re-raise any parsing errors with additional context
-            raise Exception(f"Failed to parse book list from {file_path}: {e}")
-#    return books[:NUM_BOOKS]
-    return books
 
 #---------------------------------------------
 # Function to generate summaries using chat mode
@@ -142,7 +111,7 @@ def generate_summaries(client, books):
     # Ensure the path exists; create it if it doesn't
     path.mkdir(parents=True, exist_ok=True)
     
-    for book, count in books:
+    for book in books:
         start_time = time.time()  # Capture start time
 
         book_count += 1

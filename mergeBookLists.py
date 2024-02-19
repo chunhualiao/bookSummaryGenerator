@@ -12,22 +12,7 @@ import json
 import os
 
 # Function to keep the longest book name for each unique book
-def keep_longest_books(book_list):
-    # Sort the books by name and then by length (in reverse) to ensure longest comes first
-    sorted_books = sorted(book_list, key=lambda x: (x.split(" by ")[0], -len(x)))
-    unique_books = []
-
-    for book in sorted_books:
-        # Check if the current book is a more detailed version of the last added book
-        if not unique_books or not book.startswith(unique_books[-1].split(" by ")[0]):
-            unique_books.append(book)
-        else:
-            # Replace the last book if the current one is longer
-            if len(book) > len(unique_books[-1]):
-                unique_books[-1] = book
-
-    # Return the list of unique books, now containing only the longest version of each
-    return unique_books
+#def keep_longest_books(book_list):
 
 # List all .txt files in the directory
 txt_files = [file for file in os.listdir("results/books") if file.endswith(".txt")]
@@ -69,6 +54,8 @@ all_books = list(set(all_books))
 
 all_books.sort()
 # remove duplicates with extra sub titles and author names. 
+
+from utils import keep_longest_books
 
 # Test the updated function with the new list of books
 longest_books = keep_longest_books(all_books)

@@ -1,0 +1,541 @@
+1984 by George Orwell
+21 Lessons for the 21st Century by Yuval Noah Harari
+A Course in in-Memory Data Management : The Inner Mechanics of in-Memory Databases  by Hasso Plattner
+A Gentleman in Moscow by Amor Towles
+A Peace to End All Peace by David Fromkin
+A Room of One's Own by Virginia Woolf
+A Tale of Two Cities
+A Whole New Mind: Why Right - Brainers Will Rule the Future by Daniel H. Pink
+Abundance: The Future Is Better Than You Think by Peter Diamandis
+America’s War for the Greater Middle East by Andrew Bacevich
+Animal Farm
+Anna Karenina by Leo Tolstoy
+Anticipating Change : Secrets Behind the SAP Empire  by Hasso Plattner
+Antifragile: Things That Gain from Disorder
+Army of None by Paul Scharre
+As I Lay Dying by William Faulker
+As I See It by Jean Paul Getty
+Atlas Shrugged by Ayn Rand
+Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear
+Bad Blood: Secrets and Lies in a Silicon Valley Startup by John Carreyrou
+Barbarians at the Gate: The Fall of RJR Nabisco
+Becoming by Michelle Obama
+Beloved by Toni Morrison
+Benjamin Franklin: An American Life by Walter Isaacson
+Berkshire Hathaway Letters to Shareholders by Warren Buffett
+Between the World and Me
+Big Bang Disruption: Strategy in the Age of Devastating Inovation by Larry Downes, Paul Nunes
+Big Debt Crises
+Blink: The Power of Thinking Without Thinking by Malcolm Gladwell
+Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies
+Blood Meridian
+Blue Ocean Strategy by W. Chan Kim and Renée Mauborgne
+Bold: How to Go Big, Create Wealth and Impact the World by Peter H. Diamandis, Steven Kotler
+Born a Crime: Stories from a South African Childhood
+Born to Rise by Deborah Kenny
+Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen
+Brave New World by Aldous Huxley
+Breakpoint: Why the Web Will Implode, Search Will Be Obsolete, and Everything Else You Need to Know About Technology Is in Your Brain by Jeff Stibel
+Buffett: The Making of an American Capitalist by Roger Lowenstein
+Building a StoryBrand: Clarify Your Message So Customers Will Listen
+Built to Last: Successful Habits of Visionary Companies (Good to Great) Jim Collins
+Business @ the Speed of Thought by Bill Gates
+Business Adventures: Twelve Classic Tales From the World of Wall Street by John Brooks
+Business Cycles [Volume One]: A Theoretical, Historical, and Statistical Analysis of the Capitalist Process by Joseph A. Schumpeter
+Business Model Generation by Alexander Osterwalder and Yves Pigneur
+CRISPR Gene Editing editors: Luo, Yonglun
+Capital in the Twenty-First Century by Thomas Piketty
+Carl Icahn: Earn Your First Billion Dollars by Stan Miller
+Catch-22 by Joseph Heller
+Childhood and Society by Erik H. Erikson
+Civilization  by Niall Ferguson
+Common Stocks and Uncommon Profits by Philip Fisher
+Competing Against Luck by Clayton M. Christensen
+Competing Against Time: How Time-Based Competition is Reshaping Global Markets
+Competing on Analytics: The New Science of Winning
+Competing on the Edge: Strategy as Structured Chaos
+Confessions of an Economic Hit Man
+Creation: Life and How to Make It  by Steve Grand
+Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration by Ed Catmull and Amy Wallace
+Crime and Punishment by Fyodor Dostoevsky
+Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers
+Cryptonomicon
+Daring Greatly by Brené Brown
+Data-Driven Marketing: The 15 Metrics Everyone in Marketing Should Know
+Dealing with China: An Insider Unmasks the New Economic Superpower
+Deep Learning by Yoshua Bengio
+Deep Work: Rules for Focused Success in a Distracted World by Cal Newport
+Delivering Happiness
+Dem Wandel voraus [German]  by August-Wilhelm Scheer, Daniel S. Morrow, Siegfried Wendt, et al.
+Deutsche Und Europaeische Sicherheits- Und Verteidigungspolitik: Sammelband Zur Vortragsreihe Des Studentischen Konvents an Der Helmut-Schmidt-Universitaet-Universitaet Der Bundeswehr Hamburg by Alexander Schroder and Stefan Quandt
+Doctor Zhivago
+Don Quixote by Miguel de Cervantes
+Dream of the Red Chamber
+Drive: The Surprising Truth About What Motivates Us by Daniel H. Pink
+Dune
+Educated by Tara Westover
+Ego is the Enemy
+Einstein: His Life and Universe  by Walter Isaacson
+Einstein’s Mistakes: The Human Failings of Genius  by Hans C. Ohanian
+Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future by Ashlee Vance
+Embassytown
+Emotional Intelligence: Why It Can Matter More Than IQ by Daniel Goleman
+Ender’s Game by Orson Scott Card
+Endurance: Shackleton's Incredible Voyage
+Energy: A Human History
+Enlightenment Now: The Case for Reason, Science, Humanism, and Progress
+Essentialism: The Disciplined Pursuit of Less by Greg McKeown
+Factfulness: Ten Reasons We're Wrong About the World - and Why Things Are Better Than You Think
+Fahrenheit 451
+Fate Is the Hunter: A Pilot's Memoir by Ernest K. Gann
+Fortress Besieged
+Foundation by Isaac Asimov
+Frames of Mind: The Theory of Multiple Intelligences by Howard Gardner
+Frankenstein
+Free to Choose by Milton Friedman
+Game of Thrones series
+Gang Leader for a Day: A Rogue Sociologist Takes to the Streets
+Genome: The Autobiography of a Species in 23 Chapters  by Matt Ridley
+Getting to Yes: Negotiating Agreement Without Giving In
+Godel, Escher, Bach by Douglas Hofstadter
+Gone Girl
+Good to Great: Why Some Companies Make the Leap and Others Don't by Jim Collins
+Grit: The Power of Passion and Perseverance by Angela Duckworth
+Guns, Germs, and Steel: The Fates of Human Societies by Jared Diamond
+Gödel, Escher, Bach by Douglas Hofstadter
+Hackers & Painters: Big Ideas from the Computer Age by Paul Graham
+Harry Lorayne's Page-a-Minute Memory Book by Harry Lorayne
+Harry Potter and the Sorcerer's Stone
+Hatching Twitter by Nick Bilton
+Heart of Darkness by Joseph Conrad
+Here Comes Everybody: The Power of Organizing Without Organizations by Clay Shirky
+High Output Management by Andrew S. Grove
+Hitchhiker's Guide to the Galaxy by Douglas Adams
+Homo Deus: A Brief History of Tomorrow
+Hooked: How to Build Habit-Forming Products by Nir Eyal
+Hopping over the Rabbit Hole: How Entrepreneurs Turn Failure into Success by Anthony Scaramucci
+How Not to Be Wrong
+How To Be Rich by Jean Paul Getty
+How Will You Measure Your Life?  by Clayton M. Christensen
+How to Change Your Mind by Michael Pollan
+How to Read a Book: The Classic Guide to Intelligent Reading by Mortimer J. Adler and Charles Van Doren
+How to Win Friends and Influence People by Dale Carnegie
+How to Win at the Sport of Business: If I Can Do It, You Can Do It
+Howard Hughes: His Life and Madness by Donald L. Barlett and James B. Steele
+Human Action: A Treatise on Economics by Ludwig Von Mises
+Hyperbole and a Half
+I Am a Strange Loop by Douglas Hofstadter
+If the Universe Is Teeming with Aliens WHERE IS EVERYBODY?: Fifty Solutions to the Fermi Paradox and the Problem of Extraterrestrial Life by Stephen Webb
+Ignition!: An Informal History of Liquid Rocket Propellants  by John D. Clark
+Imagine It Forward: Courage, Creativity, and the Power of Change by Beth Comstock, Tahl Raz
+In Cold Blood by Truman Capote
+In Search of Excellence by Thomas J. Peters and Robert H. Waterman Jr.
+In Search of Lost Time by Marcel Proust
+In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin by Erik Larson
+In-Memory Data Management : An Inflection Point for Enterprise Applications by Hasso Plattner and Alexander Zeier
+In-Memory Data Management : Technology and Applications  by Alexander Zeier and Hasso Plattner
+Influence: The Psychology of Persuasion by Robert B. Cialdini
+Inspired: How To Create Products Customers Love by Marty Cagan
+Intelligent Governance for the 21st Century  by Nicolas Berggruen
+Iron Council
+Jack: Straight from the Gut  by Jack Welch
+Jane Eyre by Charlotte Bronte
+Journey to the West
+Just Mercy: A Story of Justice and Redemption
+King Icahn: The Biography of a Renegade Capitalist by Mark Stevens
+Kochie's 11-Step Money Plan For a Better Life by David Koch
+Kochie's Best Jokes  by David Koch
+Kochie's Guide: How Smart Couples Can Start With Nothing But Love And Laughs And Create Real Wealth by David Koch, Libby Koch
+Le New Age  by Renaud Marhic , Emmanuel Besnier
+Leaders Eat Last: Why Some Teams Pull Together and Others Don't by Simon Sinek
+Leadership the Outward Bound Way: Becoming a Better Leader in the Workplace, in the Wilderness, and in Your Community by John Raynolds
+Lean Analytics: Use Data to Build a Better Startup Faster
+Lean In: Women, Work, and the Will to Lead by Sheryl Sandberg
+Lean Thinking: Banish Waste and Create Wealth in Your Corporation  by James Womack and Daniel Jones
+Lean UX: Designing Great Products with Agile Teams by Jeff Gothelf and Josh Seiden
+Leonardo da Vinci by Walter Isaacson
+Les Misérables
+Lessons of Hope by Joel Klein
+Life 3.0: Being Human in the Age of Artificial Intelligence by Max Tegmark
+Limping on Water by Phil Beuth
+Lincoln by David Herbert Donald
+Ling: The Rise, Fall and Return of a Texas Titan by Stanley H. Brown
+Lone Survivor: The Eyewitness Account of Operation Redwing and the Lost Heroes of SEAL Team 10 by Marcus Luttrell & Patrick Robinson
+Lord of the Flies by William Golding
+Lou Tannen's No. 12 Catalog of Magic by Louis Tannen
+Lui Che-woo: Creating Value: The Journey of a Self-Made Billionaire: The Authorized Biography by Lui Che-woo, Bi Yajun
+Ma Huateng & Tencent: A Business and Life Biography (China’s Entrepreneurs) by Leng Hu
+Made in America by Sam Walton
+Made in Japan by Akio Morita and Edwin M. Reingold
+Makers: The New Industrial Revolution by Chris Anderson
+Man's Search for Meaning by Viktor E. Frankl
+Margin of Safety: Risk-Averse Value Investing Strategies for the Thoughtful Investor by Seth A. Klarman
+Mastering the Market Cycle: Getting the Odds on Your Side  By Howard Marks
+Masters of the Universe: Winning Strategies of America’s Greatest Dealmakers by Daniel J Kadlec
+Measure What Matters: Online Tools for Understanding Customers, Social Media, Engagement, and Key Relationships
+Meditations
+Memos from the Chairman  by Alan Greenberg
+Merchants of Doubt by Naomi Oreskes and Erik M. Conway
+Middlemarch by George Eliot
+Mind of Napoleon: A Selection of His Written and Spoken Words by J. Christopher Herold
+Mindset: The New Psychology of Success by Carol S. Dweck
+Moby Dick by Herman Melville
+Mr. Baruch by Margaret L. Coit
+Mrs. Dalloway by Virginia Woolf
+My Inventions: The Autobiography of Nikola Tesla by Nikola Tesla
+My Life and Fortunes by Jean Paul Getty
+Napoleon by Vincent Cronin
+Neuromancer
+Never Give Up: Jack Ma In His Own Words (In Their Own Words)by Jack Ma, Suk Lee
+Nine Pints by Rose George
+Notebook: You Have The Same Amount Of Hours In A Day As Masayoshi Son by Masayoshi Son
+Nots of a Manager by Tadashi Yanai
+Of Permanent Value: The Story of Warren Buffett by Andrew Kilpatrick
+Oil of Russia: Past, Present & Future by Vagit Alekperov
+On Immunity: An Inoculation
+One Day in the Life of Ivan Denisovich
+One Hundred Years of Solitude by Gabriel Garcia Marquez
+One Mistake, Relentless Pain: A True Story Detailing the Consequences of Drinking and Driving by David Koch
+One Nation  by Ben Carson
+One win nine losses by Tadashi Yanai
+Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company
+Open: An Autobiography by Andre Agassi
+Originals: How Non-Conformists Move the World by Adam Grant
+Origins by Dan Brown
+Orwell's Revenge: The 1984 Palimpsest
+Outliers: The Story of Success by Malcolm Gladwell
+Perdido Street Station
+Personal Knowledge: Towards a Post-Critical Philosophy by Michael Polanyi
+Peter Cornelius: Ein Deutscher Maler by David Koch
+Physics of the Future: How Science Will Shape Human Destiny and Our Daily Lives by the Year 2100 by Michio Kaku
+Pilgrim at Tinker Creek
+Pleasure of Finding Things Out  by Richard P. Feynman
+Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger by Peter D. Kaufman
+Portfolios of the Poor: How the World's Poor Live on $2 a Day
+Presidents of War  by Michael Beschloss`
+Pride and Prejudice by Jane Austen
+Principles: Life and Work by Ray Dalio
+Profiles in Courage by John F. Kennedy
+QED: The Strange Theory of Light and Matter  by Richard P. Feynman
+Quiet: The Power of Introverts in a World That Can't Stop Talking by Susan Cain
+Rational Ritual: Culture, Coordination, and Common Knowledge
+Red Sorghum
+Reimagining Japan : The Quest for a Future That Works by Masayoshi Son
+Rework by Jason Fried and David Heinemeier Hansson
+Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not! by Robert T. Kiyosaki
+Rickshaw Boy
+River Out of Eden: A Darwinian View of Life  by Richard Dawkins
+Romance of the Three Kingdoms
+Rulin waishi
+Sam Walton: Made in America by Sam Walton
+Sapiens: A Brief History of Humankind by Yuval Noah Harari
+Security Analysis by Benjamin Graham and David L. Dodd
+Seveneves
+Shine ansuroporojiÌ„ : jinruigaku no arata na jissen e by Seiji Murao; Tadashi Yanai; Masatoshi Kubo
+Shoe Dog: A Memoir by the Creator of Nike by Phil Knight
+Siddhartha
+Skin in the Game: Hidden Asymmetries in Daily Life
+Slaughterhouse-Five by Kurt Vonnegut
+Slaying the Dragon : The Journey from the Dungeon to the Ivory Tower by David Koch
+Snow Crash  by Neal Stephenson
+Son masayoshi ga yonjuÌ„nenkan katatte kita koto by Masayoshi Son
+Start with Why: How Great Leaders Inspire Everyone to Take Action by Simon Sinek
+State of Fear by Michael Crichton
+Steve Jobs by Walter Isaacson
+Strange Tales from a Chinese Studio
+Stress Test: Reflections on Financial Crises by Timothy Geithner
+String Theory
+Structures: Or Why Things Don't Fall Down  by J.E. Gordon
+Super Mind: How to Boost Performance and Live a Richer and Happier Life Through Transcendental Meditation  by Norman E. Rosenthal
+SuperFreakonomics by Steven D. Levitt and Stephen J. Dubner
+Superforecasting by Philip E. Tetlock
+Superintelligence: Paths, Dangers, Strategies  by Nick Bostrom
+Surely You're Joking, Mr. Feynman! (Adventures of a Curious Character)  by Richard P. Feynman
+Tao Te Ching by Lao Tzu
+Tap Dancing to Work: Warren Buffett on Practically Everything by Carol J. Loomis
+Team of Rivals: The Political Genius of Abraham Lincoln by Doris Kearns Goodwin
+Tesla: Inventor of the Electrical Age by W. Bernard Carlson
+The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich
+The 5 AM Club: Own Your Morning. Elevate Your Life.
+The 5 Love Languages
+The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change by Stephen R. Covey
+The Age of Innocence by Edith Wharton
+The Age of Napoleon by Will & Ariel Durant
+The Age of Turbulence: Adventures in a New World by Alan Greenspan
+The Alchemist by Paulo Coelho
+The Alpha Masters: Unlocking the Genius of the World’s Top Hedge Funds by Maneet Ahuja
+The Amateur  by Edward Klein
+The Analects of Confucius
+The Art of Being Unreasonable
+The Art of Computer Programming by Donald Knuth
+The Art of Fielding: A Novel
+The Art of Happiness by Dalai Lama XIV and Howard C. Cutler
+The Art of Learning by Josh Waitzkin
+The Art of Racing in the Rain
+The Art of Strategy: A Game Theorist's Guide to Success in Business and Life by Avinash K. Dixit and Barry J. Nalebuff
+The Art of Thinking Clearly by Rolf Dobelli
+The Art of War by Sun Tzu
+The Art of the Start 2.0: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything
+The Autobiography of Malcolm X
+The Baroque Cycle
+The Beginning Of Infinity by David Deutsch
+The Beginning of Infinity: Explanations That Transform the World
+The Bell Jar by Sylvia Plath
+The Better Angels of Our Nature: Why Violence Has Declined by Steven Pinker
+The Bible
+The Big Short: Inside the Doomsday Machine by Michael Lewis
+The Black Swan: The Impact of the Highly Improbable by Nassim Nicholas Taleb
+The Body Keeps the Score by Bessel van der Kolk
+The Book Thief
+The Book of Chuang Tzu
+The Book of Joy: Lasting Happiness in a Changing World
+The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger
+The Boy Who Loved Batman: A Memoir by Michael Uslan
+The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+The Brief Wondrous Life of Oscar Wao
+The Brothers Karamazov by Fyodor Dostoevsky
+The Bully Pulpit: Theodore Roosevelt, William Howard Taft, and the Golden Age of Journalism by Doris Kearns Goodwin
+The Catcher in the Rye by J.D. Salinger
+The Checklist Manifesto by Atul Gawande
+The Chronicles of Narnia
+The City & the City
+The Clash of the Cultures: Investment vs. Speculation by John C. Bogle
+The Code Book by Simon Singh
+The Color Purple
+The Color of Law: A Forgotten History of How Our Government Segregated America
+The Color of Money: Black Banks and the Racial Wealth Gap
+The Count of Monte Cristo
+The Courage to Be Disliked
+The Crash of ’79 by Paul E. Erdman
+The Creation of the Gods
+The Culture by Iain M. Banks
+The Da Vinci Code by Dan Brown
+The Death and Life of Great American Cities
+The Design of Everyday Things by Don Norman
+The Devil's Highway: A True Story
+The Dhandho Investor: The Low-Risk Value Method to High Returns by Mohnish Pabrai
+The Diamond Age
+The Divine Comedy by Dante Alighieri
+The Dream by Gurbaksh Chahal
+The E-Myth Revisited by Michael E. Gerber
+The Effective Executive: The Definitive Guide to Getting the Right Things Done
+The Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, and Jerome Friedman
+The Elements of Style
+The Emperor of All Maladies by Siddhartha Mukherjee
+The End of Poverty: Economic Possibilities for Our Time by Jeffrey D. Sachs
+The End of Power: From Boardrooms to Battlefields and Churches to States, Why Being In Charge Isn't What It Used to Be
+The Essays of Warren Buffett: Lessons for Corporate America by Warren Buffett and Lawrence A. Cunningham
+The Everything Store: Jeff Bezos and the Age of Amazon by Brad Stone
+The Execution of Mayor Yin
+The Family
+The Faraway Brothers: Two Young Migrants and the Making of an American Life
+The Fifth Discipline: The Art and Practice of the Learning Organization by Peter M. Senge
+The Fire Next Time
+The Fire This Time: A New Generation Speaks about Race
+The Fords: An American Epic by Peter Collier and David Horowitz
+The Foundation Trilogy  by Isaac Asimov
+The Founder's Dilemmas: Anticipating and Avoiding the Pitfalls That Can Sink a Startup
+The Fountainhead by Ayn Rand
+The Four Agreements: A Practical Guide to Personal Freedom by Don Miguel Ruiz
+The Four Steps to the Epiphany: Successful Strategies for Products that Win
+The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google by Scott Galloway
+The Future of Capitalism by Paul Collier
+The Future of Enterprise Applications  by Bernd Leukert and Hasso Plattner
+The Gene: An Intimate History by Siddhartha Mukherjee
+The Gifts of Imperfection by Brené Brown
+The Girl with the Dragon Tattoo
+The Goal: A Process of Ongoing Improvements  by Eliyahu Goldratt
+The Good Earth
+The Grapes of Wrath by John Steinbeck
+The Great CEO Within by Matt Mochary
+The Great Gatsby by F. Scott Fitzgerald
+The Great Influenza by John M. Barry
+The Great Transformation
+The Grid
+The Gulag Archipelago
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers by Ben Horowitz
+The Headspace Guide to Meditation and Mindfulness by Andy Puddicombe
+The Heartbeat of Wounded Knee: Native America from 1890 to the Present
+The Hero with a Thousand Faces by Joseph Campbell
+The Hitchhiker's Guide to the Galaxy by Douglas Adams
+The Hobbit
+The Honourable Schoolboy: A George Smiley Novel  by John le Carre
+The House of Morgan: An American Banking Dynasty and the Rise of Modern Finance by Ron Chernow
+The Hunt for Red October by Tom Clancy
+The Idea Factory: Bell Labs and the Great Age of American Innovation
+The Idealist: Jeffrey Sachs and the Quest to End Poverty
+The Idiot
+The Immortal Life of Henrietta Lacks by Rebecca Skloot
+The Information by James Gleick
+The Innovator's DNA: Mastering the Five Skills of Disruptive Innovators by Jeff Dyer, Hal Gregersen, and Clayton M. Christensen
+The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail by Clayton M. Christensen
+The Innovator's Prescription: A Disruptive Solution for Health Care
+The Innovator's Solution: Creating and Sustaining Successful Growth by Clayton M. Christensen and Michael E. Raynor
+The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution by Walter Isaacson
+The Intelligent Asset Allocator by William J. Bernstein
+The Intelligent Investor: The Definitive Book on Value Investing
+The Interpretation of Dreams by Sigmund Freud
+The Invention of Nature
+The Jordan Rules by Doug Grud Sam Smith
+The Kingkiller Chronicle
+The Kite Runner
+The Last Lion Box Set by William Manchester
+The Last Lion: Winston Spencer Churchill, Alone, 1932-1940
+The Last Lion: Winston Spencer Churchill, Defender of the Realm, 1940-1965
+The Last Lion: Winston Spencer Churchill, Visions of Glory, 1874-1932
+The Last Mile by Dilip Soman
+The Law by Frederic Bastiat
+The Lean Brand by Jeremiah Gardner and Brant Cooper
+The Lean Entrepreneur by Brant Cooper and Patrick Vlaskovits
+The Lean Machine by Dantar Oosterwal
+The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback by Dan Olsen
+The Lean Six Sigma Pocket Toolbook by Michael L. George
+The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries
+The Lessons of History by Will Durant & Ariel Durant
+The Lies of Locke Lamora
+The Life-Changing Magic of Tidying Up
+The Little Book That Still Beats the Market by Joel Greenblatt
+The Little Book of Common Sense Investing: The Only Way to Guarantee Your Fair Share of Stock Market Returns by John C. Bogle
+The Little Prince by Antoine de Saint-Exupery
+The Long Tail: Why the Future of Business is Selling Less of More by Chris Anderson
+The Lord of the Rings  by J.R.R. Tolkien
+The Making of a Manager: What to Do When Everyone Looks to You
+The Malazan Book of the Fallen series
+The Man Who Fed the World
+The Man Who Knew Infinity by Robert Kanigel
+The Master Algorithm by Pedro Domingos
+The Master Switch by Tim Wu
+The Master and His Emissary by Iain McGilchrist
+The Master and Margarita by Mikhail Bulgakov
+The Mind of the Strategist: The Art of Japanese Business by Ohmae kenichi
+The Moment of Lift
+The Moon Is a Harsh Mistress by Robert A. Heinlein
+The Most Important Thing Illuminated: Uncommon Sense for the Thoughtful Investor by Howard Marks
+The Muqaddimah by Ibn Khaldun
+The Myth of the Strong Leader
+The Mythical Man-Month: Essays on Software Engineering by Frederick P. Brooks, Jr.
+The Name of the Wind
+The New Buffettology: The Proven Techniques for Investing Successfully in Changing Markets That Have Made Warren Buffett the World's Most Famous Investor by Mary Buffett and David Clark
+The New Digital Age: Transforming Nations, Businesses, and Our Lives by Eric Schmidt, Jonathan Rosenberg
+The New Elite: Inside the Minds of the Truly Wealthy by Jim Taylor, Doug Harrison, and Stephen Kraus
+The New Jim Crow: Mass Incarceration in the Age of Colorblindness
+The New New Thing: A Silicon Valley Story by Michael Lewis
+The Odyssey by Homer
+The Old Man and the Sea by Ernest Hemingway
+The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results
+The Outsiders: Eight Unconventional CEOs and Their Radically Rational Blueprint for Success by William N. Thorndike
+The Outsider’s Edge: The Making of Self-Made Billionaires by Brent D. Taylor
+The Path to Power: The Years of Lyndon Johnson
+The PayPal Wars: Battles with eBay, the Media, the Mafia, and the Rest of Planet Earth
+The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win by Gene Kim, Kevin Behr, and George Spafford
+The Picture of Dorian Gray by Oscar Wilde
+The Player of Games by Iain M. Banks
+The Plum in the Golden Vase
+The Power Broker: Robert Moses and the Fall of New York by Robert A. Caro
+The Power of Habit: Why We Do What We Do in Life and Business by Charles Duhigg
+The Power of Now: A Guide to Spiritual Enlightenment by Eckhart Tolle
+The Power to Compete
+The Prince by Niccolò Machiavelli
+The Prize: The Epic Quest for Oil, Money & Power by Daniel Yergin
+The Quest: Energy, Security, and the Remaking of the Modern World by Daniel Yergin
+The Rational Optimist: How Prosperity Evolves
+The Remains of the Day by Kazuo Ishiguro
+The Republic of Thieves
+The Richest Man in Babylon by George S. Clason
+The Righteous Mind: Why Good People Are Divided by Politics and Religion
+The Road Ahead by Bill Gates
+The Road Less Traveled by M. Scott Peck
+The Road to Character by David Brooks
+The Robber Barons by Matthew Josephson
+The Rosie Effect
+The Rosie Project
+The Scar
+The Scholars
+The Science of Liberty: Democracy, Reason, and the Laws of Nature by Timothy Ferris
+The Score Takes Care Of Itself by Steve Jamison and Craig Walsh
+The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies by Erik Brynjolfsson, Andrew McAfee
+The Selfish Gene by Richard Dawkins
+The Seventh Sense by Joshua Cooper Ramo
+The Shallows by Nicholas Carr
+The Short and Tragic Life of Robert Peace: A Brilliant Young Man Who Left Newark for the Ivy League
+The Signal and the Noise by Nate Silver
+The Silmarillion
+The Singularity Is Near by Ray Kurzweil
+The Sixth Extinction: An Unnatural History
+The Snowball: Warren Buffett and the Business of Life by Alice Schroeder
+The Social Animal: The Hidden Sources of Love, Character, and Achievement
+The Sound and the Fury by William Faulkner
+The Start-up of You: Adapt to the Future, Invest in Yourself, and Transform Your Career by Reid Hoffman, Ben Casnocha
+The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company
+The Story of Art by E.H. Gombrich
+The Story of my Life by Clarence Darrow
+The Story of the Stone
+The Stranger by Albert Camus
+The Strategy and Tactics of Pricing by Thomas Nagle and John Hogan
+The Structure of Scientific Revolutions by Thomas S Kuhn
+The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life by Mark Manson
+The Sun Also Rises by Ernest Hemingway
+The Talent Code:Greatness Isn’t Born. It’s Grown. Here’s How. by Daniel Coyle
+The Third Wave: An Entrepreneur's Vision of the Future by Steve Case
+The Three Musketeers
+The Three-Body Problem by Liu Cixin
+The Tipping Point: How Little Things Can Make a Big Difference by Malcolm Gladwell
+The Toyota Way by Jeffrey Liker
+The Travels of Lao Can
+The Underground Railroad
+The Undoing Project: A Friendship That Changed Our Minds by Michael Lewis
+The Uninhabitable Earth: Life After Warming
+The Untethered Soul by Michael A. Singer
+The Unwinding
+The Upside of Inequality: How Good Intentions Undermine the Middle Class by Edward Conard
+The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World by Brad Stone
+The Varieties of Religious Experience by William James
+The Vital Question
+The Vulture Investors, Revised and Updated by Hilary Rosenberg
+The Wanda Way: The Managerial Philosophy And Values Of One Of China’s Largest Companies by Jianlin Wang
+The War of Art: Break Through the Blocks and Win Your Inner Creative Battles
+The Warmth of Other Suns: The Epic Story of America's Great Migration
+The Warren Buffett Portfolio: Mastering the Power of the Focus Investment Strategy by Robert G. Hagstrom
+The Warren Buffett Way by Robert G. Hagstrom
+The Water Margin
+The Way Forward: Renewing the American Idea by Paul Ryan
+The Wealth of Nations by Adam Smith
+The White Man's Burden
+The Wise Man's Fear
+The World Is Flat 3.0: A Brief History of the Twenty-first Century by Thomas L. Friedman
+The World Is Flat: A Brief History of the Twenty-first Century by Thomas L. Friedman
+The World's Greatest Magic by Hyla M. Clark
+The Wright Brothers by David McCullough
+The Year of Magical Thinking
+The Yiddish Policemen's Union
+The Zero Marginal Cost Society: The Internet of Things, the Collaborative Commons, and the Eclipse of Capitalism by Jeremy Rifkin
+Thinking in Bets by Annie Duke
+Thinking, Fast and Slow by Daniel Kahneman
+Thirst: A Story of Redemption, Compassion, and a Mission to Bring Clean Water to the World by Scott Harrison
+Titan: The Life of John D. Rockefeller, Sr. by Ron Chernow
+To Kill a Mockingbird by Harper Lee
+To Live
+To Pixar and Beyond: My Unlikely Journey with Steve Jobs to Make Entertainment History by Lawrence Levy
+To the Lighthouse by Virginia Woolf
+Upheaval by Jared Diamond
+Vesco bu Robert A. Hutchison
+War and Peace by Leo Tolstoy
+We Were Soldiers Once… and Young, by Harold G. Moore and Joseph L. Galloway
+What Do You Care What Other People Think?  by Richard P. Feynman
+What It Takes: Lessons in the Pursuit of Excellence by Stephen A. Schwarzman
+When the Wolves Bite Scott Wapner
+Where Are the Customers' Yachts? by Fred Schwed Jr.
+Where Good Ideas Come From by Steven Johnson
+Where Men Win Glory: The Odyssey of Pat Tillman
+Where the Crawdads Sing by Delia Owens
+Where the Red Fern Grows
+Why Nations Fail: The Origins of Power, Prosperity, and Poverty by Daron Acemoglu and James Robinson
+Why Wages Rise by F. A. Harper
+Win the Crowd: Unlock the Secrets of Influence, Charisma, and Showmanship by Steve Cohen
+Winning: The Ultimate Business How-To Book
+Wolf Totem
+World Order by Henry Kissinger
+Wuthering Heights by Emily Bronte
+Yanai Tadashi No Kibo O Moto by Tadashi Yanai
+Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel and Blake Masters
+regard sur la Bible ; mieux se comprendre entre juifs et catholiques by Francoise Bettencourt Meyers

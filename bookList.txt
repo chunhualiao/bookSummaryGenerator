@@ -13,13 +13,13 @@ Larry Ellison- Mark Zuckerberg | "High Output Management" by Andrew S. Grove | 2
 Stephen Schwarzman-Markzucherburg | "World Order" by Henry Kissinger | 2
 Warren Buffet-Michael Dale | "The Outsiders" by William Thorndike Jr. | 2
 Jeff Bezos | "The Remains of the Day" by Kazuo Ishiguro | 1
-Bill Gates | "The Future of Capitalism'' by Paul Collier | 1
+Bill Gates | "The Future of Capitalism" by Paul Collier | 1
 Warren Buffet | "The Intelligent Investor" by Benjamin Graham | 1
 Carlos Slim Helu | "Mr. Baruch" by Margaret L. Coit | 1
 Larry Ellison | "Napoleon" by Vincent Cronin | 1
 Mark Zuckerberg | "The Muqaddimah" by Ibn Khaldun | 1
 Michael Bloomberg | "The Honourable Schoolboy: A George Smiley Novel"  by John le Carre | 1
-Larry Page | “My Inventions: The Autobiography of Nikola Tesla” by Nikola Tesla | 1
+Larry Page | "My Inventions: The Autobiography of Nikola Tesla" by Nikola Tesla | 1
 Charles Koch | "Frames of Mind: The Theory of Multiple Intelligences" by Howard Gardner | 1
 David Koch | "Kochie's 11-Step Money Plan For a Better Life" by David Koch | 1
 Mukesh Ambani | "Leonardo da Vinci" by Walter Isaacson | 1
@@ -52,7 +52,7 @@ Michael Bloomberg | "How Will You Measure Your Life?"  by Clayton M. Christensen
 Charles Koch | "Why Wages Rise" by F. A. Harper | 1
 David Koch | "Kochie's Best Jokes"  by David Koch | 1
 Mukesh Ambani | "Origins" by Dan Brown | 1
-Jack Ma | " Tao Te Ching" by Lao Tzu | 1
+Jack Ma | "Tao Te Ching" by Lao Tzu | 1
 Michael Dell | "Big Bang Disruption: Strategy in the Age of Devastating Inovation" by Larry Downes, Paul Nunes | 1
 Phil Knight | "Shoe Dog: A Memoir by the Creator of Nike" by Phil Knight | 1
 Elon Mask | "Structures: Or Why Things Don't Fall Down"  by J.E. Gordon | 1
@@ -62,13 +62,13 @@ Ray Dalio | "Super Mind: How to Boost Performance and Live a Richer and Happier 
 Carl Icahn | "Hopping over the Rabbit Hole: How Entrepreneurs Turn Failure into Success" by Anthony Scaramucci | 1
 Hasso Plattner | "In-Memory Data Management : Technology and Applications"  by Alexander Zeier and Hasso Plattner | 1
 Steve Cohen | "Lou Tannen's No. 12 Catalog of Magic" by Louis Tannen | 1
-Jeff Bezos | “Creation: Life and How to Make It”  by Steve Grand | 1
+Jeff Bezos | "Creation: Life and How to Make It"  by Steve Grand | 1
 Bill Gates | "A Gentleman in Moscow" by Amor Towles | 1
 Warren Buffet | "Common Stocks and Uncommon Profits" by Philip Fisher | 1
 Carlos Slim Helu | "Vesco" bu Robert A. Hutchison | 1
 Larry Ellison | "The Age of Napoleon" by Will & Ariel Durant | 1
 Mark Zuckerberg | "Why Nations Fail" by Daron Acemoglu and James A Robinson | 1
-Larry Page | “What Do You Care What Other People Think?”  by Richard P. Feynman | 1
+Larry Page | "What Do You Care What Other People Think?"  by Richard P. Feynman | 1
 Charles Koch | "Human Action: A Treatise on Economics" by Ludwig Von Mises | 1
 David Koch | "One Mistake, Relentless Pain: A True Story Detailing the Consequences of Drinking and Driving" by David Koch | 1
 Mukesh Ambani | "CRISPR Gene Editing" editors: Luo, Yonglun | 1
@@ -84,13 +84,13 @@ Carl Icahn | "The Alpha Masters: Unlocking the Genius of the World’s Top Hedge
 Hasso Plattner | "The Future of Enterprise Applications"  by Bernd Leukert and Hasso Plattner | 1
 Stephen Schwarzman | "What It Takes: Lessons in the Pursuit of Excellence" by Stephen A. Schwarzman | 1
 Steve Cohen | "Harry Lorayne's Page-a-Minute Memory Book" by Harry Lorayne | 1
-Jeff Bezos | “Good to Great: Why Some Companies Make the Leap … and Others Don’t” by Jim Collins | 1
+Jeff Bezos | "Good to Great: Why Some Companies Make the Leap … and Others Don't" by Jim Collins | 1
 Bill Gates | "Nine Pints" by Rose George | 1
 Warren Buffet | "Stress Test: Reflections on Financial Crises" by Tim Geithner | 1
 Carlos Slim Helu | "The Crash of ’79" by Paul E. Erdman | 1
 Larry Ellison | "A Peace to End All Peace" by David Fromkin | 1
 Michael Bloomberg | "Thirst: A Story of Redemption, Compassion, and a Mission to Bring Clean Water to the World" by Scott Harrison | 1
-Larry Page | “QED: The Strange Theory of Light and Matter”  by Richard P. Feynman | 1
+Larry Page | "QED: The Strange Theory of Light and Matter"  by Richard P. Feynman | 1
 Charles Koch | "Personal Knowledge: Towards a Post-Critical Philosophy" by Michael Polanyi | 1
 David Koch | "Kochie's Guide: How Smart Couples Can Start With Nothing But Love And Laughs And Create Real Wealth" by David Koch, Libby Koch | 1
 Jack Ma | "Makers: The New Industrial Revolution" by Chris Anderson | 1
@@ -101,27 +101,27 @@ Rupert Murdoch | "Intelligent Governance for the 21st Century"  by Nicolas Bergg
 Ray Dalio | "The Lessons of History" by Will Durant & Ariel Durant | 1
 Carl Icahn | "King Icahn: The Biography of a Renegade Capitalist" by Mark Stevens | 1
 Hasso Plattner | "A Course in in-Memory Data Management : The Inner Mechanics of in-Memory Databases"  by Hasso Plattner | 1
-Stephen Schwarzman | “We Were Soldiers Once… and Young,” by Harold G. Moore and Joseph L. Galloway | 1
+Stephen Schwarzman | "We Were Soldiers Once… and Young," by Harold G. Moore and Joseph L. Galloway | 1
 Steve Cohen | "The New Elite: Inside the Minds of the Truly Wealthy" by Jim Taylor, Doug Harrison, and Stephen Kraus | 1
-Jeff Bezos | “The Innovator’s Dilemma”  by Clayton Christensen | 1
+Jeff Bezos | "The Innovator's Dilemma"  by Clayton Christensen | 1
 Bill Gates | "Upheaval" by Jared Diamond | 1
 Warren Buffet | "The Essays of Warren Buffett" by Warren Buffett | 1
 Carlos Slim Helu | "The Fords: An American Epic" by Peter Collier and David Horowitz | 1
 Larry Ellison | "Fate Is the Hunter: A Pilot's Memoir" by Ernest K. Gann | 1
 Michael Bloomberg | "The Start-up of You: Adapt to the Future, Invest in Yourself, and Transform Your Career" by Reid Hoffman, Ben Casnocha | 1
-Larry Page | “Pleasure of Finding Things Out”  by Richard P. Feynman | 1
+Larry Page | "Pleasure of Finding Things Out"  by Richard P. Feynman | 1
 Charles Koch | "America’s War for the Greater Middle East" by Andrew Bacevich | 1
 David Koch | "Slaying the Dragon : The Journey from the Dungeon to the Ivory Tower" by David Koch | 1
 Jack Ma | "Here Comes Everybody: The Power of Organizing Without Organizations" by Clay Shirky | 1
 Michael Dell | "The Zero Marginal Cost Society: The Internet of Things, the Collaborative Commons, and the Eclipse of Capitalism" by Jeremy Rifkin | 1
 Tadashi Yanai | "The Mind of the Strategist: The Art of Japanese Business" by Ohmae kenichi | 1
 Rupert Murdoch | "Born to Rise" by Deborah Kenny | 1
-Ray Dalio | " River Out of Eden: A Darwinian View of Life"  by Richard Dawkins | 1
+Ray Dalio | "River Out of Eden: A Darwinian View of Life"  by Richard Dawkins | 1
 Carl Icahn | "Masters of the Universe: Winning Strategies of America’s Greatest Dealmakers" by Daniel J Kadlec | 1
 Hasso Plattner | "Dem Wandel voraus" [German]  by August-Wilhelm Scheer, Daniel S. Morrow, Siegfried Wendt, et al. | 1
 Stephen Schwarzman | "The Interpretation of Dreams" by Sigmund Freud | 1
 Steve Cohen | "The Boy Who Loved Batman: A Memoir" by Michael Uslan | 1
-Jeff Bezos | “Sam Walton: Made in America” by Sam Walton | 1
+Jeff Bezos | "Sam Walton: Made in America" by Sam Walton | 1
 Bill Gates | "The Headspace Guide to Meditation and Mindfulness" by Andy Puddicombe | 1
 Warren Buffet | "Jack: Straight from the Gut"  by Jack Welch | 1
 Carlos Slim Helu | "My Life and Fortunes" by Jean Paul Getty | 1
@@ -136,9 +136,9 @@ Rupert Murdoch | "The Amateur"  by Edward Klein | 1
 Ray Dalio | "The Hero with a Thousand Faces" by Joseph Campbell | 1
 Carl Icahn | "The Outsider’s Edge: The Making of Self-Made Billionaires" by Brent D. Taylor | 1
 Hasso Plattner | "Anticipating Change : Secrets Behind the SAP Empire"  by Hasso Plattner | 1
-Stephen Schwarzman | “Childhood and Society” by Erik H. Erikson | 1
+Stephen Schwarzman | "Childhood and Society" by Erik H. Erikson | 1
 Steve Cohen | "The World's Greatest Magic" by Hyla M. Clark | 1
-Jeff Bezos | “Lean Thinking: Banish Waste and Create Wealth in Your Corporation”  by James Womack and Daniel Jones | 1
+Jeff Bezos | "Lean Thinking: Banish Waste and Create Wealth in Your Corporation"  by James Womack and Daniel Jones | 1
 Bill Gates | "21 Lessons for the 21st Century" by Yuval Noah Harari | 1
 Carlos Slim Helu | "As I See It" by Jean Paul Getty | 1
 Larry Ellison | "The Last Lion Box Set" by William Manchester | 1
@@ -150,8 +150,8 @@ Elon Mask | "The Lord of the Rings"  by J.R.R. Tolkien | 1
 Rupert Murdoch | "Lincoln Unbound" by Rich Lowry | 1
 Ray Dalio | "The Power of Habit: Why We Do What We Do in Life and Business" by Charles Duhigg | 1
 Carl Icahn | "Becoming Rich" by Mark Tier | 1
-Stephen Schwarzman | “The Prize: The Epic Quest for Oil, Money & Power” by Daniel Yergin | 1
-Jeff Bezos | “Memos from the Chairman”  by Alan Greenberg | 1
+Stephen Schwarzman | "The Prize: The Epic Quest for Oil, Money & Power" by Daniel Yergin | 1
+Jeff Bezos | "Memos from the Chairman"  by Alan Greenberg | 1
 Bill Gates | "Bad Blood" by John Carreyrou | 1
 Warren Buffet | "The Clash of the Cultures"  by John Bogle | 1
 Carlos Slim Helu | "How To Be Rich" by Jean Paul Getty | 1
@@ -159,14 +159,14 @@ Larry Ellison | "The Robber Barons" by Matthew Josephson | 1
 Charles Koch | "State of Fear" by Michael Crichton | 1
 Rupert Murdoch | "Lessons of Hope" by Joel Klein | 1
 Carl Icahn | "The Vulture Investors, Revised and Updated" by Hilary Rosenberg | 1
-Jeff Bezos | “The Mythical Man-Month”  by Frederick P. Brooks, Jr. | 1
+Jeff Bezos | "The Mythical Man-Month"  by Frederick P. Brooks, Jr. | 1
 Bill Gates | "Army of None" by Paul Scharre | 1
 Mark Zuckerberg | "The Structure of Scientific Revolutions" by Thomas S Kuhn | 1
 Charles Koch | "As I Lay Dying" by William Faulker | 1
 Elon Mask | "If the Universe Is Teeming with Aliens WHERE IS EVERYBODY?: Fifty Solutions to the Fermi Paradox and the Problem of Extraterrestrial Life" by Stephen Webb | 1
 Ray Dalio | "A Whole New Mind: Why Right - Brainers Will Rule the Future" by Daniel H. Pink | 1
 Carl Icahn | "Carl Icahn: Earn Your First Billion Dollars" by Stan Miller | 1
-Jeff Bezos | “The Goal: A Process of Ongoing Improvements”  by Eliyahu Goldratt | 1
+Jeff Bezos | "The Goal: A Process of Ongoing Improvements"  by Eliyahu Goldratt | 1
 Bill Gates | "Educated" by Tara Westover | 1
 Warren Buffet | "Where Are the Customers' Yachts?" by Fred Schwed | 1
 Larry Ellison | "Lone Survivor: The Eyewitness Account of Operation Redwing and the Lost Heroes of SEAL Team 10" by Marcus Luttrell & Patrick Robinson | 1
