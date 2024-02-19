@@ -260,8 +260,8 @@ def translate_summaries(client, bookCountLimit):
             {"role": "user", "content": prompt}
         ],
 # What sampling temperature to use, between 0 and 2. Higher values like 0.8 will make the output more random, while lower values like 0.2 will make it more focused and deterministic.        
-        temperature=0.6, # 
-        max_tokens=MAX_TOKENS)
+        temperature=0.6,
+        max_tokens=2*MAX_TOKENS )   # translation does not need token limit, I guess. Need more, input and output are long
 
         summary = response.choices[0].message.content.strip()
 # https://help.openai.com/en/articles/6614209-how-do-i-check-my-token-usage        
