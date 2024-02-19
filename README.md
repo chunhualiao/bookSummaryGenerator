@@ -33,3 +33,18 @@ Please edit generateBookSummaries.py and look through the configuraiton part in 
 * temperature of a model
 
 
+Example execution screen output:
+
+```
+bookSummaryUsingGPT$ make check
+
+184: Summary of 530 words for 'Deep Learning' saved to 184-Deep-Learning-summary-txt. input tokens=47, output tokens=698
+Iteration 184: 46.1335 seconds
+185: Summary of 555 words for 'Genome: The Autobiography of a Species in 23 Chapters' saved to 185-Genome--The-Autobiography-of-a-Species-in-23-Chapters-summary-txt. input tokens=58, output tokens=690
+Iteration 185: 30.8259 seconds
+186: Summary of 539 words for 'Superintelligence: Paths, Dangers, Strategies' saved to 186-Superintelligence--Paths--Dangers--Strategies-summary-txt. input tokens=54, output tokens=730
+Iteration 186: 22.6418 seconds
+Estimated total cost for summarizing 186 books: $3.836760
+Total accumulated time: 5457.6185 seconds.
+```
+
