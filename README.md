@@ -7,10 +7,11 @@ A python program does the following
 * save result into a markdown file named ID-book.summary.md
 * estimate the dollar amount costs of calling OpenAI APIs
 * measure the time spent on each book and total execution time.
+* additionally, it translates the English summary .md files into Chinese versions
 
 Results are stored into results folder.
 * results/MODEL_ID/id-book-name.summary.md
-
+* results/MODEL_ID/chinese/id-book-name.summary.md
 
 How to run the program within a Linux or macOS terminal
 * Creat a virtual environment first

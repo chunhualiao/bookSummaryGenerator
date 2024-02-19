@@ -29,10 +29,12 @@ total_time=0
 # https://openai.com/pricing
 #MODEL_ID="gpt-3.5-turbo-instruct" # /v1/completions (Legacy), not compatible with chat mode!!
 # https://platform.openai.com/docs/models/model-endpoint-compatibility
-#MODEL_ID="gpt-3.5-turbo" 
 # best model so far
 # https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
 MODEL_ID="gpt-4-1106-preview" 
+
+# use low cost 3.5 for translation
+TRANSLATION_MODEL_ID="gpt-3.5-turbo-0125"
 
 # how many books have been summarized, also used as the book ID or serial number.
 book_count = 0 
@@ -207,21 +209,108 @@ def generate_summaries(client, books):
         print(f"Iteration {book_count}: {duration:.4f} seconds")
 
     return total_cost
+#---------------------------------------------
+# Function to translate summaries using chat mode
+def translate_summaries(client, bookCountLimit):
+
+    global total_time
+    total_cost = 0
+# input file path, derived from MODEL_ID selected for the summarization task
+    path = Path("results") / MODEL_ID
+    output_path = Path("results") / MODEL_ID / "chinese"
+    output_path.mkdir(parents=True, exist_ok=True)
+
+    book_count = 0 
+    # Check if the path exists
+    if not path.exists():
+        print(f"The input .md file path '{path}' does not exist.")
+        return  # Exit the function if the path does not exist
+
+    # Iterate over all .md files in the specified directory
+    for md_file in path.glob('*.md'):
+        start_time = time.time()  # Capture start time
+
+        book_count += 1
+
+        if bookCountLimit is not None and book_count > bookCountLimit:
+            print(f"Reaching the limit of {bookCountLimit}, skip the rest of files ... ")
+            break  # Exit the loop if book_count exceeds bookCountLimit
+
+        input_md_file = md_file.resolve()
+        
+        print(f"{book_count} Translating {input_md_file}...")
+        # Read the content of the input file
+        with open(input_md_file, 'r', encoding='utf-8') as file:
+            input_text = file.read()
+
+        prompt = f"Translate the following English text to Simplified Chinese:\n\n{input_text}."
+        # check the existence of the output_path summary.md file, if it exists, skip this translation
+        output_md_file = output_path / input_md_file.name
+
+        output_md_file_name = output_md_file.resolve(); 
+        if Path(output_md_file_name).exists():
+          print(f"The file '{output_md_file_name}' already exists. Skipping it...")
+          continue
+      
+        print(f"Translating '{input_md_file}'...")
+        # https://platform.openai.com/docs/api-reference/chat/create
+        response = client.chat.completions.create(model= TRANSLATION_MODEL_ID,
+        messages=[
+            {"role": "system", "content": "You are a helpful assistant."},
+            {"role": "user", "content": prompt}
+        ],
+# What sampling temperature to use, between 0 and 2. Higher values like 0.8 will make the output more random, while lower values like 0.2 will make it more focused and deterministic.        
+        temperature=0.6, # 
+        max_tokens=MAX_TOKENS)
+
+        summary = response.choices[0].message.content.strip()
+# https://help.openai.com/en/articles/6614209-how-do-i-check-my-token-usage        
+        input_token_count = response.usage.prompt_tokens;
+        output_token_count = response.usage.completion_tokens
+
+# regular English words counting method does not aply to Chinese. We use len() for now.
+        output_word_count = len(summary)
+
+        with open(output_md_file_name, 'w', encoding='utf-8') as file:
+            file.write(summary)
+        print(f"{book_count}: Translated summary of {output_word_count} words saved to {output_md_file_name}. input tokens={input_token_count}, output tokens={output_token_count}")
+
+        # note : use translation model id here!
+        iteration_cost = compute_api_call_cost (TRANSLATION_MODEL_ID, input_token_count, output_token_count)
+        
+        total_cost += iteration_cost
+
+        end_time = time.time()  # Capture end time
+        duration = end_time - start_time  # Calculate duration of this iteration
+        total_time += duration  # Update total accumulated time
+    
+        print(f"Iteration {book_count}: {duration:.4f} seconds")
+
+    return total_cost
+
+def process_book_summaries(client, book_list_file, num_books=None):
+    # Assuming the necessary variables and functions (`parse_book_list`, `generate_summaries`, etc.) 
+    # are defined elsewhere in the script
+
+    # books = parse_book_list(BOOK_LIST_FILE)  # Original line 301
+    books = parse_book_list(book_list_file)
+    
+    # When slicing
+    books_to_process = books if num_books is None else books[:num_books]
+    total_cost = generate_summaries(client, books_to_process)
+    
+    print(f"Estimated total cost for summarizing {len(books_to_process)} books: ${total_cost:.6f}")
+    # Assuming 'total_time' is calculated within `generate_summaries` or passed back
+    print(f"Total accumulated time: {total_time:.4f} seconds.")
 
 #---------------------------------------------
 # Main program
 if __name__ == "__main__":
     client = OpenAI(api_key=get_openai_api_key())
-    books = parse_book_list(BOOK_LIST_FILE)
-#    print (books[:10]) # test first 10 books
 
-    # When slicing
-    books_to_process = books if NUM_BOOKS is None else books[:NUM_BOOKS]
-    total_cost = generate_summaries(client, books_to_process)
+    process_book_summaries(client, BOOK_LIST_FILE, NUM_BOOKS)
 
-#    total_cost = generate_summaries(books[:NUM_BOOKS])
-#    total_cost = generate_summaries(books)
-    print(f"Estimated total cost for summarizing {book_count} books: ${total_cost:.6f}")
-    # After the loop completes, print the total time
+    total_cost = translate_summaries(client, NUM_BOOKS)
+    print(f"Estimated total cost for translating {book_count} books: ${total_cost:.6f}")
     print(f"Total accumulated time: {total_time:.4f} seconds.")
 
