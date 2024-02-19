@@ -18,7 +18,7 @@ from pathlib import Path
 # a txt file providing book information
 BOOK_LIST_FILE = 'bookList.txt'
 
-#NUM_BOOKS = 5  # Change this to limit the number of books to process, used for debugging
+NUM_BOOKS = 5  # Change this to limit the number of books to process, used for debugging
 NUM_BOOKS = None  # None will be treated as all in the code
 
 # reference web gpt-4: 509 words
@@ -135,6 +135,11 @@ def generate_summaries(client, books):
     global book_count # Required to modify the global object
     global total_time
     total_cost = 0
+    path = Path("results") / MODEL_ID
+# add path to the result files        
+    # Ensure the path exists; create it if it doesn't
+    path.mkdir(parents=True, exist_ok=True)
+    
     for book, count in books:
         start_time = time.time()  # Capture start time
 
@@ -157,12 +162,16 @@ def generate_summaries(client, books):
 # Replace any character that is not a letter (a-z, A-Z) or digit (0-9) with a hyphen
         sanitized_book_name = re.sub(r'[^a-zA-Z0-9]', '-', book)
 # prepend a three digit serial number, using markedown format for easier reading
-        file_name = f"{book_count:03}_{sanitized_book_name}.summary.md"
- 
+        file_name = f"{book_count:03}-{sanitized_book_name}.summary.md"
+
+        full_path = path / file_name
+        file_name = str(full_path)
+
         if Path(file_name).exists():
           print(f"The file '{file_name}' already exists. Skipping it...")
           continue
       
+        print(f"Processing '{file_name}'...")
         # https://platform.openai.com/docs/api-reference/chat/create
         response = client.chat.completions.create(model= MODEL_ID,
         messages=[

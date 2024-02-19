@@ -8,7 +8,8 @@ A python program does the following
 * estimate the dollar amount costs of calling OpenAI APIs
 * measure the time spent on each book and total execution time.
 
-Some results are stored into results folder.
+Results are stored into results folder.
+* results/MODEL_ID/id-book-name.summary.md
 
 
 How to run the program within a Linux or macOS terminal

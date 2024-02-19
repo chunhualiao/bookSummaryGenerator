@@ -186,3 +186,24 @@ Mark Zuckerberg | "Why Nations Fail: The Origins of Power, Prosperity, and Pover
 Elon Mask | "Deep Learning" by Yoshua Bengio | 1
 Mark Zuckerberg | "Genome: The Autobiography of a Species in 23 Chapters"  by Matt Ridley | 1
 Elon Mask | "Superintelligence: Paths, Dangers, Strategies" by Nick Bostrom | 1
+Sam Altman | "The Hard Thing About Hard Things" by Ben Horowitz | 1
+Sam Altman | "The Score Takes Care Of Itself" by Steve Jamison and Craig Walsh | 1
+Sam Altman | "The Beginning Of Infinity" by David Deutsch | 1
+Sam Altman | "The Lean Startup" by Eric Ries | 1
+Sam Altman | "The Black Swan" by Nassim Nicholas Taleb | 1
+Sam Altman | "The Prince" by Niccolò Machiavelli| 1
+Sam Altman | "Thinking, Fast and Slow" by Daniel Kahneman| 1
+Sam Altman | "Einstein: His Life and Universe" by Walter Isaacson | 1
+Sam Altman | "The E-Myth Revisited" by Michael E. Gerber| 1
+Sam Altman | "The Great CEO Within" by Matt Mochary| 1
+Sam Altman | "The Making of a Manager" by Julie Zhuo| 1
+Sam Altman | "The Effective Executive" by Peter F. Drucker| 1
+Sam Altman | "Superintelligence" by Nick Bostrom| 1
+Sam Altman | "The Art of War" by Sun Tzu  | 1
+Sam Altman | "The Checklist Manifesto" by Atul Gawande | 1
+Sam Altman | "The Art of Learning" by Josh Waitzkin | 1
+Sam Altman | "Hackers & Painters: Big Ideas from the Computer Age" by Paul Graham | 1
+Sam Altman | "The Art of Strategy: A Game Theorist's Guide to Success in Business and Life" by Avinash K. Dixit and Barry J. Nalebuff | 1
+Sam Altman | "Mind of Napoleon: A Selection of His Written and Spoken Words" by J. Christopher Herold | 1
+Sam Altman | "Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger" by Peter D. Kaufman | 1
+
