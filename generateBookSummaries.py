@@ -227,7 +227,9 @@ def translate_summaries(client, bookCountLimit):
         return  # Exit the function if the path does not exist
 
     # Iterate over all .md files in the specified directory
-    for md_file in path.glob('*.md'):
+    # Sort the files alphabetically, otherwise the order is arbitrary
+    sorted_files = sorted(path.glob('*.md'), key=lambda x: x.name)
+    for md_file in sorted_files:
         start_time = time.time()  # Capture start time
 
         book_count += 1

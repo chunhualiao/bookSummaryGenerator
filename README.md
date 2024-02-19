@@ -51,5 +51,20 @@ Iteration 185: 30.8259 seconds
 Iteration 186: 22.6418 seconds
 Estimated total cost for summarizing 186 books: $3.836760
 Total accumulated time: 5457.6185 seconds.
+
+....
+
+207 Translating /home/liao/workspace/bookSummaryUsingGPT/results/gpt-4-1106-preview/205-Mind-of-Napoleon--A-Selection-of-His-Written-and-Spoken-Words.summary.md...
+Translating '/home/liao/workspace/bookSummaryUsingGPT/results/gpt-4-1106-preview/205-Mind-of-Napoleon--A-Selection-of-His-Written-and-Spoken-Words.summary.md'...
+207: Translated summary of 1049 words saved to /home/liao/workspace/bookSummaryUsingGPT/results/gpt-4-1106-preview/chinese/205-Mind-of-Napoleon--A-Selection-of-His-Written-and-Spoken-Words.summary.md. input tokens=696, output tokens=1256
+Iteration 207: 23.1297 seconds
+208 Translating /home/liao/workspace/bookSummaryUsingGPT/results/gpt-4-1106-preview/206-Poor-Charlie-s-Almanack--The-Wit-and-Wisdom-of-Charles-T--Munger.summary.md...
+Translating '/home/liao/workspace/bookSummaryUsingGPT/results/gpt-4-1106-preview/206-Poor-Charlie-s-Almanack--The-Wit-and-Wisdom-of-Charles-T--Munger.summary.md'...
+208: Translated summary of 1049 words saved to /home/liao/workspace/bookSummaryUsingGPT/results/gpt-4-1106-preview/chinese/206-Poor-Charlie-s-Almanack--The-Wit-and-Wisdom-of-Charles-T--Munger.summary.md. input tokens=743, output tokens=1201
+Iteration 208: 24.8758 seconds
+Estimated total cost for translating 206 books: $0.453361
+Total accumulated time: 3949.7468 seconds.
+
+
 ```
 
