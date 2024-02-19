@@ -2,7 +2,7 @@
 
 A python program does the following
 * read and parse bookList.txt
-  * the book list has 186 books recommended by the richest people in the world.
+  * the book list has 206 books recommended by the richest people in the world.
 * for each book in the list, it asks a GPT model to generate a 10-point summary
 * save result into a markdown file named ID-book.summary.md
 * estimate the dollar amount costs of calling OpenAI APIs
@@ -39,6 +39,8 @@ Example execution screen output:
 
 ```
 bookSummaryUsingGPT$ make check
+
+...
 
 184: Summary of 530 words for 'Deep Learning' saved to 184-Deep-Learning-summary-txt. input tokens=47, output tokens=698
 Iteration 184: 46.1335 seconds
