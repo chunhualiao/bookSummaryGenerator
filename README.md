@@ -20,6 +20,7 @@ How to run the program within a Linux or macOS terminal
 Now within your virtual environment, do the following:
 * pip install openai 
 * export OPENAI_API_KEY='your_openai_api_key_here'
+  * alternatively , put export OPENAI_API_KEY='your_openai_api_key_here' into ~/set.openai.key 
 * python generateBookSummaries.py
 
 Note that for each book, GPT-4 model takes around 30 seconds to summarize it.
