@@ -3,6 +3,7 @@
 A python program does the following
 * read and parse bookList.txt
   * the book list has 206 books recommended by the richest people in the world.
+  * You can add new books at the end of this file. Run the program to generate summary text for them.
 * for each book in the list, it asks a GPT model to generate a 10-point summary
 * save result into a markdown file named ID-book.summary.md
 * estimate the dollar amount costs of calling OpenAI APIs
