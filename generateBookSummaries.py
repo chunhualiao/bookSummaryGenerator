@@ -302,15 +302,16 @@ def process_book_summaries(client, book_list_file, num_books=None):
     print(f"Estimated total cost for summarizing {len(books_to_process)} books: ${total_cost:.6f}")
     # Assuming 'total_time' is calculated within `generate_summaries` or passed back
     print(f"Total accumulated time: {total_time:.4f} seconds.")
+    return total_cost
 
 #---------------------------------------------
 # Main program
 if __name__ == "__main__":
     client = OpenAI(api_key=get_openai_api_key())
 
-    process_book_summaries(client, BOOK_LIST_FILE, NUM_BOOKS)
+    total_cost = process_book_summaries(client, BOOK_LIST_FILE, NUM_BOOKS)
 
-    total_cost = translate_summaries(client, NUM_BOOKS)
+    total_cost += translate_summaries(client, NUM_BOOKS)
     print(f"Estimated total cost for translating {book_count} books: ${total_cost:.6f}")
     print(f"Total accumulated time: {total_time:.4f} seconds.")
 
