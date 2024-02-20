@@ -17,10 +17,12 @@ from utils import parse_book_list
 #---------------------------------------------
 # global variables
 # a txt file providing book information
-BOOK_LIST_FILE = 'bookList.txt'
+#BOOK_LIST_FILE = 'bookList.txt'
+BOOK_LIST_FILE = 'results/all_books_final.txt'
 
-NUM_BOOKS = 5  # Change this to limit the number of books to process, used for debugging
+
 NUM_BOOKS = None  # None will be treated as all in the code
+#NUM_BOOKS = 5  # Change this to limit the number of books to process, used for debugging
 
 # reference web gpt-4: 509 words
 WORD_COUNT = 550  # Change this for summary length
@@ -32,7 +34,9 @@ total_time=0
 # https://platform.openai.com/docs/models/model-endpoint-compatibility
 # best model so far
 # https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
-MODEL_ID="gpt-4-1106-preview" 
+#MODEL_ID="gpt-4-1106-preview" 
+
+MODEL_ID="gpt-3.5-turbo-0125" # save money with this model
 
 # use low cost 3.5 for translation
 TRANSLATION_MODEL_ID="gpt-3.5-turbo-0125"
@@ -127,8 +131,8 @@ def generate_summaries(client, books):
         if match:
             book = match.group(1)  # This is the text within the double quotes
 #           print(book)
-        else:
-            print("Warning: No book name in double quotes is found.")
+        #else:
+#            print("Warning: No book name in double quotes is found.")
 #        file_name = f"{book}.summary.txt"
 # Replace any character that is not a letter (a-z, A-Z) or digit (0-9) with a hyphen
         sanitized_book_name = re.sub(r'[^a-zA-Z0-9]', '-', book)
@@ -264,8 +268,13 @@ def process_book_summaries(client, book_list_file, num_books=None):
     # are defined elsewhere in the script
 
     # books = parse_book_list(BOOK_LIST_FILE)  # Original line 301
-    books = parse_book_list(book_list_file)
-    
+    # simple text file , each line is a book name
+    # open the file and read all the lines
+    with open(book_list_file, 'r') as file:
+        content = file.read()
+        # each line is a book, append to all_books
+        books = content.split('\n')    
+        
     # When slicing
     books_to_process = books if num_books is None else books[:num_books]
     total_cost = generate_summaries(client, books_to_process)
