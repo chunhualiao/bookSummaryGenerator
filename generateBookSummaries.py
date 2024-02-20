@@ -11,6 +11,8 @@ import re
 import os
 import time
 from pathlib import Path
+from concurrent.futures import ThreadPoolExecutor
+import concurrent.futures
 
 # new_script.py or any other script
 from utils import parse_book_list
@@ -22,21 +24,22 @@ BOOK_LIST_FILE = 'results/all_books_final.txt'
 
 
 NUM_BOOKS = None  # None will be treated as all in the code
-#NUM_BOOKS = 5  # Change this to limit the number of books to process, used for debugging
+NUM_BOOKS = 20  # Change this to limit the number of books to process, used for debugging
 
 # reference web gpt-4: 509 words
 WORD_COUNT = 550  # Change this for summary length
 MAX_TOKENS=int(WORD_COUNT*2)  # approximation of token count= 1 word * 1.4  
 
+NUM_THREADS=10 # threads count for parallel processing
 total_time=0 
 # https://openai.com/pricing
 #MODEL_ID="gpt-3.5-turbo-instruct" # /v1/completions (Legacy), not compatible with chat mode!!
 # https://platform.openai.com/docs/models/model-endpoint-compatibility
 # best model so far
 # https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
-#MODEL_ID="gpt-4-1106-preview" 
 
-MODEL_ID="gpt-3.5-turbo-0125" # save money with this model
+#MODEL_ID="gpt-3.5-turbo-0125" # save money with this model, quality is not so good
+MODEL_ID="gpt-4-1106-preview" 
 
 # use low cost 3.5 for translation
 TRANSLATION_MODEL_ID="gpt-3.5-turbo-0125"
@@ -103,9 +106,73 @@ def estimate_word_count(text):
 # TODO 
 #def parse_book_list(file_path):
 
+# a function to process a single book
+def process_book(client, book, path, book_count):
+    # This function will be executed by each thread to process one book
+    # Similar body to the original loop, adapted for per-book processing
+
+    start_time = time.time()
+    iteration_cost = 0
+    # Assuming MODEL_ID, WORD_COUNT, and MAX_TOKENS are globally defined
+    prompt = f"Provide a concise summary highlighting the ten most important insights from the book titled {book}, using exactly {WORD_COUNT} words."
+    sanitized_book_name = re.sub(r'[^a-zA-Z0-9]', '-', book)
+    file_name = f"{book_count:03}-{sanitized_book_name}.summary.md"
+    full_path = path / file_name
+    print(f"Processing '{file_name}'...")
+    if not full_path.exists():               
+
+        response = client.chat.completions.create(model= MODEL_ID,
+            messages=[
+                {"role": "system", "content": "You are a helpful assistant."},
+                {"role": "user", "content": prompt}
+            ],
+            # What sampling temperature to use, between 0 and 2. Higher values like 0.8 will make the output more random, 
+            # while lower values like 0.2 will make it more focused and deterministic.        
+            temperature=0.6, # 
+            max_tokens=MAX_TOKENS)
+
+        summary = response.choices[0].message.content.strip()
+# https://help.openai.com/en/articles/6614209-how-do-i-check-my-token-usage        
+        input_token_count = response.usage.prompt_tokens;
+        output_token_count = response.usage.completion_tokens
+        output_word_count = estimate_word_count(summary)
+
+        with open(full_path, 'w', encoding='utf-8') as file:
+            file.write(summary)
+        print(f"{book_count}: Summary of {output_word_count} words for '{book}' saved to {full_path}. input tokens={input_token_count}, output tokens={output_token_count}")
+        iteration_cost = compute_api_call_cost (MODEL_ID, input_token_count, output_token_count)    
+        print(f"Iteration {book_count}: {duration:.4f} seconds")
+    else:
+        print(f"Summary for '{book}' already exists in {full_path}. skipping it ...")
+    
+#------------    
+    end_time = time.time()
+    duration = end_time - start_time
+    # Return necessary information for accumulation
+    return duration, iteration_cost  
 
 #---------------------------------------------
-# Function to generate summaries using chat mode
+# Function to generate summaries using chat mode using multiple threads
+def generate_summaries_in_parallel(client, books):
+    global total_time
+    total_cost = 0
+    path = Path("results") / MODEL_ID
+# add path to the result files        
+    # Ensure the path exists; create it if it doesn't
+    path.mkdir(parents=True, exist_ok=True)
+    
+    #for book in books:
+    with ThreadPoolExecutor(max_workers=NUM_THREADS) as executor:
+        # Create a list of futures
+        futures = [executor.submit(process_book, client, book, path, idx + 1) for idx, book in enumerate(books)]
+        for future in concurrent.futures.as_completed(futures):
+            duration, iteration_cost = future.result()
+            total_time += duration
+            total_cost += iteration_cost            
+    return total_cost
+
+#---------------------------------------------
+# Function to generate summaries using chat mode, serial execution version
 def generate_summaries(client, books):
     global book_count # Required to modify the global object
     global total_time
@@ -168,9 +235,6 @@ def generate_summaries(client, books):
             file.write(summary)
         print(f"{book_count}: Summary of {output_word_count} words for '{book}' saved to {file_name}. input tokens={input_token_count}, output tokens={output_token_count}")
 
-#        input_cost = (input_token_count / 1000) * COST_PER_THOUSAND_INPUT_TOKENS
-#        output_cost = (output_token_count / 1000) * COST_PER_THOUSAND_OUTPUT_TOKENS
-#        iteration_cost = input_cost + output_cost
         iteration_cost = compute_api_call_cost (MODEL_ID, input_token_count, output_token_count)
         
         total_cost += iteration_cost
@@ -202,14 +266,14 @@ def translate_summaries(client, bookCountLimit):
     # Iterate over all .md files in the specified directory
     # Sort the files alphabetically, otherwise the order is arbitrary
     sorted_files = sorted(path.glob('*.md'), key=lambda x: x.name)
-    for md_file in sorted_files:
+    for md_file in sorted_files[:bookCountLimit]:
         start_time = time.time()  # Capture start time
 
         book_count += 1
 
-        if bookCountLimit is not None and book_count > bookCountLimit:
-            print(f"Reaching the limit of {bookCountLimit}, skip the rest of files ... ")
-            break  # Exit the loop if book_count exceeds bookCountLimit
+#        if bookCountLimit is not None and book_count > bookCountLimit:
+#            print(f"Reaching the limit of {bookCountLimit}, skip the rest of files ... ")
+#            break  # Exit the loop if book_count exceeds bookCountLimit
 
         input_md_file = md_file.resolve()
         
@@ -277,7 +341,7 @@ def process_book_summaries(client, book_list_file, num_books=None):
         
     # When slicing
     books_to_process = books if num_books is None else books[:num_books]
-    total_cost = generate_summaries(client, books_to_process)
+    total_cost = generate_summaries_in_parallel(client, books_to_process)
     
     print(f"Estimated total cost for summarizing {len(books_to_process)} books: ${total_cost:.6f}")
     # Assuming 'total_time' is calculated within `generate_summaries` or passed back
