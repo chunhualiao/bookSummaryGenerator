@@ -1,7 +1,8 @@
 # must set bash, or source is not available!
 SHELL := /bin/bash
 
-GPT_VERSION=gpt-3.5-turbo-0125
+#GPT_VERSION=gpt-3.5-turbo-0125
+GPT_VERSION=gpt-4-1106-preview
 
 # make check do the summarization and translation, generating individual .md files
 # ---------------------------------------------------------------

@@ -5,7 +5,6 @@
 # On Linux or macOS
 # export OPENAI_API_KEY='your_openai_api_key_here'
 #---------------------------------------------
-
 from openai import OpenAI
 import re
 import os
@@ -22,15 +21,14 @@ from utils import parse_book_list
 #BOOK_LIST_FILE = 'bookList.txt'
 BOOK_LIST_FILE = 'results/all_books_final.txt'
 
-
 NUM_BOOKS = None  # None will be treated as all in the code
-NUM_BOOKS = 20  # Change this to limit the number of books to process, used for debugging
+#NUM_BOOKS = 20  # Change this to limit the number of books to process, used for debugging
 
 # reference web gpt-4: 509 words
 WORD_COUNT = 550  # Change this for summary length
 MAX_TOKENS=int(WORD_COUNT*2)  # approximation of token count= 1 word * 1.4  
 
-NUM_THREADS=10 # threads count for parallel processing
+NUM_THREADS=20 # threads count for parallel processing
 total_time=0 
 # https://openai.com/pricing
 #MODEL_ID="gpt-3.5-turbo-instruct" # /v1/completions (Legacy), not compatible with chat mode!!
@@ -101,11 +99,6 @@ def compute_api_call_cost(model_id, input_token_count, output_token_count):
 def estimate_word_count(text):
     return len(text.split())
 
-#---------------------------------------------
-# Function to parse the book list file
-# TODO 
-#def parse_book_list(file_path):
-
 # a function to process a single book
 def process_book(client, book, path, book_count):
     # This function will be executed by each thread to process one book
@@ -120,7 +113,6 @@ def process_book(client, book, path, book_count):
     full_path = path / file_name
     print(f"Processing '{file_name}'...")
     if not full_path.exists():               
-
         response = client.chat.completions.create(model= MODEL_ID,
             messages=[
                 {"role": "system", "content": "You are a helpful assistant."},
@@ -132,7 +124,7 @@ def process_book(client, book, path, book_count):
             max_tokens=MAX_TOKENS)
 
         summary = response.choices[0].message.content.strip()
-# https://help.openai.com/en/articles/6614209-how-do-i-check-my-token-usage        
+        # https://help.openai.com/en/articles/6614209-how-do-i-check-my-token-usage        
         input_token_count = response.usage.prompt_tokens;
         output_token_count = response.usage.completion_tokens
         output_word_count = estimate_word_count(summary)
@@ -140,14 +132,14 @@ def process_book(client, book, path, book_count):
         with open(full_path, 'w', encoding='utf-8') as file:
             file.write(summary)
         print(f"{book_count}: Summary of {output_word_count} words for '{book}' saved to {full_path}. input tokens={input_token_count}, output tokens={output_token_count}")
-        iteration_cost = compute_api_call_cost (MODEL_ID, input_token_count, output_token_count)    
-        print(f"Iteration {book_count}: {duration:.4f} seconds")
+        iteration_cost = compute_api_call_cost (MODEL_ID, input_token_count, output_token_count)            
     else:
         print(f"Summary for '{book}' already exists in {full_path}. skipping it ...")
     
 #------------    
     end_time = time.time()
     duration = end_time - start_time
+    print(f"Iteration {book_count}: {duration:.4f} seconds")
     # Return necessary information for accumulation
     return duration, iteration_cost  
 
