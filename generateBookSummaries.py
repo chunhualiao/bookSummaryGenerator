@@ -246,8 +246,86 @@ def generate_summaries(client, books):
         print(f"Iteration {book_count}: {duration:.4f} seconds")
 
     return total_cost
+
+# Assuming other necessary imports and definitions are provided elsewhere, 
+# like client initialization, compute_api_call_cost, etc.
+# processing a single input md file at a time
+def translate_summary(client, md_file, output_path, book_count, TRANSLATION_MODEL_ID, MAX_TOKENS):
+    """Function to handle translation of a single summary."""
+    # The logic inside the original loop, adapted for a single file translation
+    
+    print(f"{book_count} Translating {md_file}...")
+    input_md_file = md_file.resolve()
+    output_md_file = output_path / md_file.name
+    output_md_file_name = str(output_md_file.resolve())
+    start_time = time.time()  # Capture start time
+    if not output_md_file.exists():
+        with open(input_md_file, 'r', encoding='utf-8') as file:
+            input_text = file.read()
+
+        prompt = f"Translate the following English text to Simplified Chinese:\n\n{input_text}."             
+        # https://platform.openai.com/docs/api-reference/chat/create
+        response = client.chat.completions.create(
+            model=TRANSLATION_MODEL_ID,
+            messages=[
+                {"role": "system", "content": "You are a helpful assistant."},
+                {"role": "user", "content": prompt}
+            ],
+            temperature=0.6,
+            max_tokens=2*MAX_TOKENS
+        )
+
+        summary = response.choices[0].message.content.strip()
+        input_token_count = response.usage.prompt_tokens
+        output_token_count = response.usage.completion_tokens
+        output_word_count = len(summary)
+        with open(output_md_file_name, 'w', encoding='utf-8') as file:
+            file.write(summary)
+
+        iteration_cost = compute_api_call_cost(TRANSLATION_MODEL_ID, input_token_count, output_token_count)
+        end_time = time.time()  # Capture end time
+        duration = end_time - start_time  # Calculate duration of this iteration        
+        print(f"{book_count}: Translated summary of {output_word_count} words saved to {output_md_file_name}. input tokens={input_token_count}, output tokens={output_token_count}")
+        print(f"Iteration {book_count}: {duration:.4f} seconds")
+        return (duration, iteration_cost)
+    else:
+        print(f"The file '{output_md_file_name}' already exists. Skipping it...")
+        return (None, None)  # Return None values if file exists
+
+
 #---------------------------------------------
-# Function to translate summaries using chat mode
+# Function to translate summaries using chat mode, the fast parallel version
+def translate_summaries_in_parallel(client, bookCountLimit):
+
+    global total_time
+    total_cost = 0
+# input file path, derived from MODEL_ID selected for the summarization task
+    path = Path("results") / MODEL_ID
+    output_path = Path("results") / MODEL_ID / "chinese"
+    output_path.mkdir(parents=True, exist_ok=True)
+
+    book_count = 0 
+    # Check if the path exists
+    if not path.exists():
+        print(f"The input .md file path '{path}' does not exist.")
+        return  # Exit the function if the path does not exist
+
+    # Iterate over all .md files in the specified directory
+    # Sort the files alphabetically, otherwise the order is arbitrary
+    sorted_files = sorted(path.glob('*.md'), key=lambda x: x.name)
+    sorted_files = sorted_files[:bookCountLimit]
+#    for md_file in sorted_files[:bookCountLimit]:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=NUM_THREADS) as executor:
+        # Create a list of futures
+        futures = [executor.submit(translate_summary, client, md_file, output_path, book_count + 1, TRANSLATION_MODEL_ID, MAX_TOKENS) for book_count, md_file in enumerate(sorted_files)]
+        for future in concurrent.futures.as_completed(futures):
+            duration, iteration_cost = future.result()
+            if duration is not None:
+                total_time += duration
+                total_cost += iteration_cost
+    return total_cost
+#---------------------------------------------
+# Function to translate summaries using chat mode, the slow serial version
 def translate_summaries(client, bookCountLimit):
 
     global total_time
@@ -270,10 +348,6 @@ def translate_summaries(client, bookCountLimit):
         start_time = time.time()  # Capture start time
 
         book_count += 1
-
-#        if bookCountLimit is not None and book_count > bookCountLimit:
-#            print(f"Reaching the limit of {bookCountLimit}, skip the rest of files ... ")
-#            break  # Exit the loop if book_count exceeds bookCountLimit
 
         input_md_file = md_file.resolve()
         
@@ -355,7 +429,6 @@ if __name__ == "__main__":
 
     total_cost = process_book_summaries(client, BOOK_LIST_FILE, NUM_BOOKS)
 
-    total_cost += translate_summaries(client, NUM_BOOKS)
+    total_cost += translate_summaries_in_parallel(client, NUM_BOOKS)
     print(f"Estimated total cost for translating {book_count} books: ${total_cost:.6f}")
     print(f"Total accumulated time: {total_time:.4f} seconds.")
-
